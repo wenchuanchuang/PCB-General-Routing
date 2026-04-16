@@ -1,0 +1,2136 @@
+components:
+- value: CC2520
+  footprint: 'Housings_DFN_QFN:QFN-28-1EP_5x5mm_Pitch0.5mm'
+  pin_count: 32
+  pads:
+    - pin: 1
+      x_mm: -2.45
+      y_mm: -1.5
+    - pin: 2
+      x_mm: -2.45
+      y_mm: -1.0
+    - pin: 3
+      x_mm: -2.45
+      y_mm: -0.5
+    - pin: 4
+      x_mm: -2.45
+      y_mm: 0.0
+    - pin: 5
+      x_mm: -2.45
+      y_mm: 0.5
+    - pin: 6
+      x_mm: -2.45
+      y_mm: 1.0
+    - pin: 7
+      x_mm: -2.45
+      y_mm: 1.5
+    - pin: 8
+      x_mm: -1.5
+      y_mm: 2.45
+    - pin: 9
+      x_mm: -1.0
+      y_mm: 2.45
+    - pin: 10
+      x_mm: -0.5
+      y_mm: 2.45
+    - pin: 11
+      x_mm: 0.0
+      y_mm: 2.45
+    - pin: 12
+      x_mm: 0.5
+      y_mm: 2.45
+    - pin: 13
+      x_mm: 1.0
+      y_mm: 2.45
+    - pin: 14
+      x_mm: 1.5
+      y_mm: 2.45
+    - pin: 15
+      x_mm: 2.45
+      y_mm: 1.5
+    - pin: 16
+      x_mm: 2.45
+      y_mm: 1.0
+    - pin: 17
+      x_mm: 2.45
+      y_mm: 0.5
+    - pin: 18
+      x_mm: 2.45
+      y_mm: 0.0
+    - pin: 19
+      x_mm: 2.45
+      y_mm: -0.5
+    - pin: 20
+      x_mm: 2.45
+      y_mm: -1.0
+    - pin: 21
+      x_mm: 2.45
+      y_mm: -1.5
+    - pin: 22
+      x_mm: 1.5
+      y_mm: -2.45
+    - pin: 23
+      x_mm: 1.0
+      y_mm: -2.45
+    - pin: 24
+      x_mm: 0.5
+      y_mm: -2.45
+    - pin: 25
+      x_mm: 0.0
+      y_mm: -2.45
+    - pin: 26
+      x_mm: -0.5
+      y_mm: -2.45
+    - pin: 27
+      x_mm: -1.0
+      y_mm: -2.45
+    - pin: 28
+      x_mm: -1.5
+      y_mm: -2.45
+    - pin: 29
+      x_mm: 0.8375
+      y_mm: 0.8375
+    - pin: 29
+      x_mm: 0.8375
+      y_mm: -0.8375
+    - pin: 29
+      x_mm: -0.8375
+      y_mm: 0.8375
+    - pin: 29
+      x_mm: -0.8375
+      y_mm: -0.8375
+- value: RJE72-188-1401
+  footprint: 'Jonas:RJE72-188-1401'
+  pin_count: 10
+  pads:
+    - pin: 1
+      x_mm: -3.57
+      y_mm: -0.89
+    - pin: 2
+      x_mm: -2.55
+      y_mm: 0.89
+    - pin: 3
+      x_mm: -1.53
+      y_mm: -0.89
+    - pin: 4
+      x_mm: -0.51
+      y_mm: 0.89
+    - pin: 5
+      x_mm: 0.51
+      y_mm: -0.89
+    - pin: 6
+      x_mm: 1.53
+      y_mm: 0.89
+    - pin: 7
+      x_mm: 2.55
+      y_mm: -0.89
+    - pin: 8
+      x_mm: 3.57
+      y_mm: 0.89
+    - pin: 9
+      x_mm: -9.8
+      y_mm: -7.2
+    - pin: 10
+      x_mm: 9.8
+      y_mm: -7.2
+- value: CONN_02X10
+  footprint: 'Jonas:TFM-110-02-S-D-WT'
+  pin_count: 22
+  pads:
+    - pin: 1
+      x_mm: -5.715
+      y_mm: 1.905
+    - pin: 2
+      x_mm: -5.715
+      y_mm: -1.905
+    - pin: 3
+      x_mm: -4.445
+      y_mm: 1.905
+    - pin: 4
+      x_mm: -4.445
+      y_mm: -1.905
+    - pin: 5
+      x_mm: -3.175
+      y_mm: 1.905
+    - pin: 6
+      x_mm: -3.175
+      y_mm: -1.905
+    - pin: 7
+      x_mm: -1.905
+      y_mm: 1.905
+    - pin: 8
+      x_mm: -1.905
+      y_mm: -1.905
+    - pin: 9
+      x_mm: -0.635
+      y_mm: 1.905
+    - pin: 10
+      x_mm: -0.635
+      y_mm: -1.905
+    - pin: 11
+      x_mm: 0.635
+      y_mm: 1.905
+    - pin: 12
+      x_mm: 0.635
+      y_mm: -1.905
+    - pin: 13
+      x_mm: 1.905
+      y_mm: 1.905
+    - pin: 14
+      x_mm: 1.905
+      y_mm: -1.905
+    - pin: 15
+      x_mm: 3.175
+      y_mm: 1.905
+    - pin: 16
+      x_mm: 3.175
+      y_mm: -1.905
+    - pin: 17
+      x_mm: 4.445
+      y_mm: 1.905
+    - pin: 18
+      x_mm: 4.445
+      y_mm: -1.905
+    - pin: 19
+      x_mm: 5.715
+      y_mm: 1.905
+    - pin: 20
+      x_mm: 5.715
+      y_mm: -1.905
+    - pin: 0
+      x_mm: 8.255
+      y_mm: 0.0
+    - pin: 0
+      x_mm: -8.255
+      y_mm: 0.0
+- value: R0402_39R
+  footprint: 'Resistors_SMD:R_0402'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: 0.45
+      y_mm: -0.0
+    - pin: 2
+      x_mm: -0.45
+      y_mm: 0.0
+- value: AT91SAM9G25
+  footprint: 'Jonas:217LFBGA'
+  pin_count: 217
+  pads:
+    - pin: A1
+      x_mm: -6.39826
+      y_mm: -6.39826
+    - pin: A2
+      x_mm: -5.59816
+      y_mm: -6.39826
+    - pin: A3
+      x_mm: -4.79806
+      y_mm: -6.39826
+    - pin: A4
+      x_mm: -3.99796
+      y_mm: -6.39826
+    - pin: A5
+      x_mm: -3.19786
+      y_mm: -6.39826
+    - pin: A6
+      x_mm: -2.39776
+      y_mm: -6.39826
+    - pin: A7
+      x_mm: -1.59766
+      y_mm: -6.39826
+    - pin: A8
+      x_mm: -0.79756
+      y_mm: -6.39826
+    - pin: A9
+      x_mm: 0.0
+      y_mm: -6.39826
+    - pin: A10
+      x_mm: 0.79756
+      y_mm: -6.39826
+    - pin: A11
+      x_mm: 1.59766
+      y_mm: -6.39826
+    - pin: A12
+      x_mm: 2.39776
+      y_mm: -6.39826
+    - pin: A13
+      x_mm: 3.19786
+      y_mm: -6.39826
+    - pin: A14
+      x_mm: 3.99796
+      y_mm: -6.39826
+    - pin: A15
+      x_mm: 4.79806
+      y_mm: -6.39826
+    - pin: A16
+      x_mm: 5.59816
+      y_mm: -6.39826
+    - pin: A17
+      x_mm: 6.39826
+      y_mm: -6.39826
+    - pin: B1
+      x_mm: -6.39826
+      y_mm: -5.59816
+    - pin: B2
+      x_mm: -5.59816
+      y_mm: -5.59816
+    - pin: B3
+      x_mm: -4.79806
+      y_mm: -5.59816
+    - pin: B4
+      x_mm: -3.99796
+      y_mm: -5.59816
+    - pin: B5
+      x_mm: -3.19786
+      y_mm: -5.59816
+    - pin: B6
+      x_mm: -2.39776
+      y_mm: -5.59816
+    - pin: B7
+      x_mm: -1.59766
+      y_mm: -5.59816
+    - pin: B8
+      x_mm: -0.79756
+      y_mm: -5.59816
+    - pin: B9
+      x_mm: 0.0
+      y_mm: -5.59816
+    - pin: B10
+      x_mm: 0.79756
+      y_mm: -5.59816
+    - pin: B11
+      x_mm: 1.59766
+      y_mm: -5.59816
+    - pin: B12
+      x_mm: 2.39776
+      y_mm: -5.59816
+    - pin: B13
+      x_mm: 3.19786
+      y_mm: -5.59816
+    - pin: B14
+      x_mm: 3.99796
+      y_mm: -5.59816
+    - pin: B15
+      x_mm: 4.79806
+      y_mm: -5.59816
+    - pin: B16
+      x_mm: 5.59816
+      y_mm: -5.59816
+    - pin: B17
+      x_mm: 6.39826
+      y_mm: -5.59816
+    - pin: C1
+      x_mm: -6.39826
+      y_mm: -4.79806
+    - pin: C2
+      x_mm: -5.59816
+      y_mm: -4.79806
+    - pin: C3
+      x_mm: -4.79806
+      y_mm: -4.79806
+    - pin: C4
+      x_mm: -3.99796
+      y_mm: -4.79806
+    - pin: C5
+      x_mm: -3.19786
+      y_mm: -4.79806
+    - pin: C6
+      x_mm: -2.39776
+      y_mm: -4.79806
+    - pin: C7
+      x_mm: -1.59766
+      y_mm: -4.79806
+    - pin: C8
+      x_mm: -0.79756
+      y_mm: -4.79806
+    - pin: C9
+      x_mm: 0.0
+      y_mm: -4.79806
+    - pin: C10
+      x_mm: 0.79756
+      y_mm: -4.79806
+    - pin: C11
+      x_mm: 1.59766
+      y_mm: -4.79806
+    - pin: C12
+      x_mm: 2.39776
+      y_mm: -4.79806
+    - pin: C13
+      x_mm: 3.19786
+      y_mm: -4.79806
+    - pin: C14
+      x_mm: 3.99796
+      y_mm: -4.79806
+    - pin: C15
+      x_mm: 4.79806
+      y_mm: -4.79806
+    - pin: C16
+      x_mm: 5.59816
+      y_mm: -4.79806
+    - pin: C17
+      x_mm: 6.39826
+      y_mm: -4.79806
+    - pin: D1
+      x_mm: -6.39826
+      y_mm: -3.99796
+    - pin: D2
+      x_mm: -5.59816
+      y_mm: -3.99796
+    - pin: D3
+      x_mm: -4.79806
+      y_mm: -3.99796
+    - pin: D4
+      x_mm: -3.99796
+      y_mm: -3.99796
+    - pin: D5
+      x_mm: -3.19786
+      y_mm: -3.99796
+    - pin: D6
+      x_mm: -2.39776
+      y_mm: -3.99796
+    - pin: D7
+      x_mm: -1.59766
+      y_mm: -3.99796
+    - pin: D8
+      x_mm: -0.79756
+      y_mm: -3.99796
+    - pin: D9
+      x_mm: 0.0
+      y_mm: -3.99796
+    - pin: D10
+      x_mm: 0.79756
+      y_mm: -3.99796
+    - pin: D11
+      x_mm: 1.59766
+      y_mm: -3.99796
+    - pin: D12
+      x_mm: 2.39776
+      y_mm: -3.99796
+    - pin: D13
+      x_mm: 3.19786
+      y_mm: -3.99796
+    - pin: D14
+      x_mm: 3.99796
+      y_mm: -3.99796
+    - pin: D15
+      x_mm: 4.79806
+      y_mm: -3.99796
+    - pin: D16
+      x_mm: 5.59816
+      y_mm: -3.99796
+    - pin: D17
+      x_mm: 6.39826
+      y_mm: -3.99796
+    - pin: E1
+      x_mm: -6.39826
+      y_mm: -3.19786
+    - pin: E2
+      x_mm: -5.59816
+      y_mm: -3.19786
+    - pin: E3
+      x_mm: -4.79806
+      y_mm: -3.19786
+    - pin: E4
+      x_mm: -3.99796
+      y_mm: -3.19786
+    - pin: E14
+      x_mm: 3.99796
+      y_mm: -3.19786
+    - pin: E15
+      x_mm: 4.79806
+      y_mm: -3.19786
+    - pin: E16
+      x_mm: 5.59816
+      y_mm: -3.19786
+    - pin: E17
+      x_mm: 6.39826
+      y_mm: -3.19786
+    - pin: F1
+      x_mm: -6.39826
+      y_mm: -2.39776
+    - pin: F2
+      x_mm: -5.59816
+      y_mm: -2.39776
+    - pin: F3
+      x_mm: -4.79806
+      y_mm: -2.39776
+    - pin: F4
+      x_mm: -3.99796
+      y_mm: -2.39776
+    - pin: F14
+      x_mm: 3.99796
+      y_mm: -2.39776
+    - pin: F15
+      x_mm: 4.79806
+      y_mm: -2.39776
+    - pin: F16
+      x_mm: 5.59816
+      y_mm: -2.39776
+    - pin: F17
+      x_mm: 6.39826
+      y_mm: -2.39776
+    - pin: G1
+      x_mm: -6.39826
+      y_mm: -1.59766
+    - pin: G2
+      x_mm: -5.59816
+      y_mm: -1.59766
+    - pin: G3
+      x_mm: -4.79806
+      y_mm: -1.59766
+    - pin: G4
+      x_mm: -3.99796
+      y_mm: -1.59766
+    - pin: G14
+      x_mm: 3.99796
+      y_mm: -1.59766
+    - pin: G15
+      x_mm: 4.79806
+      y_mm: -1.59766
+    - pin: G16
+      x_mm: 5.59816
+      y_mm: -1.59766
+    - pin: G17
+      x_mm: 6.39826
+      y_mm: -1.59766
+    - pin: H1
+      x_mm: -6.39826
+      y_mm: -0.79756
+    - pin: H2
+      x_mm: -5.59816
+      y_mm: -0.79756
+    - pin: H3
+      x_mm: -4.79806
+      y_mm: -0.79756
+    - pin: H4
+      x_mm: -3.99796
+      y_mm: -0.79756
+    - pin: H8
+      x_mm: -0.79756
+      y_mm: -0.79756
+    - pin: H9
+      x_mm: 0.0
+      y_mm: -0.79756
+    - pin: H10
+      x_mm: 0.79756
+      y_mm: -0.79756
+    - pin: H14
+      x_mm: 3.99796
+      y_mm: -0.79756
+    - pin: H15
+      x_mm: 4.79806
+      y_mm: -0.79756
+    - pin: H16
+      x_mm: 5.59816
+      y_mm: -0.79756
+    - pin: H17
+      x_mm: 6.39826
+      y_mm: -0.79756
+    - pin: J1
+      x_mm: -6.39826
+      y_mm: 0.0
+    - pin: J2
+      x_mm: -5.59816
+      y_mm: 0.0
+    - pin: J3
+      x_mm: -4.79806
+      y_mm: 0.0
+    - pin: J4
+      x_mm: -3.99796
+      y_mm: 0.0
+    - pin: J8
+      x_mm: -0.79756
+      y_mm: 0.0
+    - pin: J9
+      x_mm: 0.0
+      y_mm: 0.0
+    - pin: J10
+      x_mm: 0.79756
+      y_mm: 0.0
+    - pin: J14
+      x_mm: 3.99796
+      y_mm: 0.0
+    - pin: J15
+      x_mm: 4.79806
+      y_mm: 0.0
+    - pin: J16
+      x_mm: 5.59816
+      y_mm: 0.0
+    - pin: J17
+      x_mm: 6.39826
+      y_mm: 0.0
+    - pin: K1
+      x_mm: -6.39826
+      y_mm: 0.79756
+    - pin: K2
+      x_mm: -5.59816
+      y_mm: 0.79756
+    - pin: K3
+      x_mm: -4.79806
+      y_mm: 0.79756
+    - pin: K4
+      x_mm: -3.99796
+      y_mm: 0.79756
+    - pin: K8
+      x_mm: -0.79756
+      y_mm: 0.79756
+    - pin: K9
+      x_mm: 0.0
+      y_mm: 0.79756
+    - pin: K10
+      x_mm: 0.79756
+      y_mm: 0.79756
+    - pin: K14
+      x_mm: 3.99796
+      y_mm: 0.79756
+    - pin: K15
+      x_mm: 4.79806
+      y_mm: 0.79756
+    - pin: K16
+      x_mm: 5.59816
+      y_mm: 0.79756
+    - pin: K17
+      x_mm: 6.39826
+      y_mm: 0.79756
+    - pin: L1
+      x_mm: -6.39826
+      y_mm: 1.59766
+    - pin: L2
+      x_mm: -5.59816
+      y_mm: 1.59766
+    - pin: L3
+      x_mm: -4.79806
+      y_mm: 1.59766
+    - pin: L4
+      x_mm: -3.99796
+      y_mm: 1.59766
+    - pin: L14
+      x_mm: 3.99796
+      y_mm: 1.59766
+    - pin: L15
+      x_mm: 4.79806
+      y_mm: 1.59766
+    - pin: L16
+      x_mm: 5.59816
+      y_mm: 1.59766
+    - pin: L17
+      x_mm: 6.39826
+      y_mm: 1.59766
+    - pin: M1
+      x_mm: -6.39826
+      y_mm: 2.39776
+    - pin: M2
+      x_mm: -5.59816
+      y_mm: 2.39776
+    - pin: M3
+      x_mm: -4.79806
+      y_mm: 2.39776
+    - pin: M4
+      x_mm: -3.99796
+      y_mm: 2.39776
+    - pin: M14
+      x_mm: 3.99796
+      y_mm: 2.39776
+    - pin: M15
+      x_mm: 4.79806
+      y_mm: 2.39776
+    - pin: M16
+      x_mm: 5.59816
+      y_mm: 2.39776
+    - pin: M17
+      x_mm: 6.39826
+      y_mm: 2.39776
+    - pin: N1
+      x_mm: -6.39826
+      y_mm: 3.19786
+    - pin: N2
+      x_mm: -5.59816
+      y_mm: 3.19786
+    - pin: N3
+      x_mm: -4.79806
+      y_mm: 3.19786
+    - pin: N4
+      x_mm: -3.99796
+      y_mm: 3.19786
+    - pin: N14
+      x_mm: 3.99796
+      y_mm: 3.19786
+    - pin: N15
+      x_mm: 4.79806
+      y_mm: 3.19786
+    - pin: N16
+      x_mm: 5.59816
+      y_mm: 3.19786
+    - pin: N17
+      x_mm: 6.39826
+      y_mm: 3.19786
+    - pin: P1
+      x_mm: -6.39826
+      y_mm: 3.99796
+    - pin: P2
+      x_mm: -5.59816
+      y_mm: 3.99796
+    - pin: P3
+      x_mm: -4.79806
+      y_mm: 3.99796
+    - pin: P4
+      x_mm: -3.99796
+      y_mm: 3.99796
+    - pin: P5
+      x_mm: -3.19786
+      y_mm: 3.99796
+    - pin: P6
+      x_mm: -2.39776
+      y_mm: 3.99796
+    - pin: P7
+      x_mm: -1.59766
+      y_mm: 3.99796
+    - pin: P8
+      x_mm: -0.79756
+      y_mm: 3.99796
+    - pin: P9
+      x_mm: 0.0
+      y_mm: 3.99796
+    - pin: P10
+      x_mm: 0.79756
+      y_mm: 3.99796
+    - pin: P11
+      x_mm: 1.59766
+      y_mm: 3.99796
+    - pin: P12
+      x_mm: 2.39776
+      y_mm: 3.99796
+    - pin: P13
+      x_mm: 3.19786
+      y_mm: 3.99796
+    - pin: P14
+      x_mm: 3.99796
+      y_mm: 3.99796
+    - pin: P15
+      x_mm: 4.79806
+      y_mm: 3.99796
+    - pin: P16
+      x_mm: 5.59816
+      y_mm: 3.99796
+    - pin: P17
+      x_mm: 6.39826
+      y_mm: 3.99796
+    - pin: R1
+      x_mm: -6.39826
+      y_mm: 4.79806
+    - pin: R2
+      x_mm: -5.59816
+      y_mm: 4.79806
+    - pin: R3
+      x_mm: -4.79806
+      y_mm: 4.79806
+    - pin: R4
+      x_mm: -3.99796
+      y_mm: 4.79806
+    - pin: R5
+      x_mm: -3.19786
+      y_mm: 4.79806
+    - pin: R6
+      x_mm: -2.39776
+      y_mm: 4.79806
+    - pin: R7
+      x_mm: -1.59766
+      y_mm: 4.79806
+    - pin: R8
+      x_mm: -0.79756
+      y_mm: 4.79806
+    - pin: R9
+      x_mm: 0.0
+      y_mm: 4.79806
+    - pin: R10
+      x_mm: 0.79756
+      y_mm: 4.79806
+    - pin: R11
+      x_mm: 1.59766
+      y_mm: 4.79806
+    - pin: R12
+      x_mm: 2.39776
+      y_mm: 4.79806
+    - pin: R13
+      x_mm: 3.19786
+      y_mm: 4.79806
+    - pin: R14
+      x_mm: 3.99796
+      y_mm: 4.79806
+    - pin: R15
+      x_mm: 4.79806
+      y_mm: 4.79806
+    - pin: R16
+      x_mm: 5.59816
+      y_mm: 4.79806
+    - pin: R17
+      x_mm: 6.39826
+      y_mm: 4.79806
+    - pin: T1
+      x_mm: -6.39826
+      y_mm: 5.59816
+    - pin: T2
+      x_mm: -5.59816
+      y_mm: 5.59816
+    - pin: T3
+      x_mm: -4.79806
+      y_mm: 5.59816
+    - pin: T4
+      x_mm: -3.99796
+      y_mm: 5.59816
+    - pin: T5
+      x_mm: -3.19786
+      y_mm: 5.59816
+    - pin: T6
+      x_mm: -2.39776
+      y_mm: 5.59816
+    - pin: T7
+      x_mm: -1.59766
+      y_mm: 5.59816
+    - pin: T8
+      x_mm: -0.79756
+      y_mm: 5.59816
+    - pin: T9
+      x_mm: 0.0
+      y_mm: 5.59816
+    - pin: T10
+      x_mm: 0.79756
+      y_mm: 5.59816
+    - pin: T11
+      x_mm: 1.59766
+      y_mm: 5.59816
+    - pin: T12
+      x_mm: 2.39776
+      y_mm: 5.59816
+    - pin: T13
+      x_mm: 3.19786
+      y_mm: 5.59816
+    - pin: T14
+      x_mm: 3.99796
+      y_mm: 5.59816
+    - pin: T15
+      x_mm: 4.79806
+      y_mm: 5.59816
+    - pin: T16
+      x_mm: 5.59816
+      y_mm: 5.59816
+    - pin: T17
+      x_mm: 6.39826
+      y_mm: 5.59816
+    - pin: U1
+      x_mm: -6.39826
+      y_mm: 6.39826
+    - pin: U2
+      x_mm: -5.59816
+      y_mm: 6.39826
+    - pin: U3
+      x_mm: -4.79806
+      y_mm: 6.39826
+    - pin: U4
+      x_mm: -3.99796
+      y_mm: 6.39826
+    - pin: U5
+      x_mm: -3.19786
+      y_mm: 6.39826
+    - pin: U6
+      x_mm: -2.39776
+      y_mm: 6.39826
+    - pin: U7
+      x_mm: -1.59766
+      y_mm: 6.39826
+    - pin: U8
+      x_mm: -0.79756
+      y_mm: 6.39826
+    - pin: U9
+      x_mm: 0.0
+      y_mm: 6.39826
+    - pin: U10
+      x_mm: 0.79756
+      y_mm: 6.39826
+    - pin: U11
+      x_mm: 1.59766
+      y_mm: 6.39826
+    - pin: U12
+      x_mm: 2.39776
+      y_mm: 6.39826
+    - pin: U13
+      x_mm: 3.19786
+      y_mm: 6.39826
+    - pin: U14
+      x_mm: 3.99796
+      y_mm: 6.39826
+    - pin: U15
+      x_mm: 4.79806
+      y_mm: 6.39826
+    - pin: U16
+      x_mm: 5.59816
+      y_mm: 6.39826
+    - pin: U17
+      x_mm: 6.39826
+      y_mm: 6.39826
+- value: C0402_1u_10Vdc_X5R
+  footprint: 'Capacitors_SMD:C_0402'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: 0.55
+      y_mm: -0.0
+    - pin: 2
+      x_mm: -0.55
+      y_mm: 0.0
+- value: C0603_4u7_6.3Vdc_X5R
+  footprint: 'Capacitors_SMD:C_0603'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: -0.75
+      y_mm: -0.0
+    - pin: 2
+      x_mm: 0.75
+      y_mm: 0.0
+- value: C0402_10n_10Vdc_X5R
+  footprint: 'Capacitors_SMD:C_0402'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: -0.55
+      y_mm: -0.0
+    - pin: 2
+      x_mm: 0.55
+      y_mm: 0.0
+- value: C0402_10p_100Vdc_C0G
+  footprint: 'Capacitors_SMD:C_0402'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: 0.55
+      y_mm: -0.0
+    - pin: 2
+      x_mm: -0.55
+      y_mm: 0.0
+- value: C0402_15p_100Vdc_C0G
+  footprint: 'Capacitors_SMD:C_0402'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: 0.55
+      y_mm: 0.0
+    - pin: 2
+      x_mm: -0.55
+      y_mm: -0.0
+- value: C0603_1u_25Vdc_X7R
+  footprint: 'Capacitors_SMD:C_0603'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: 0.75
+      y_mm: -0.0
+    - pin: 2
+      x_mm: -0.75
+      y_mm: 0.0
+- value: C0402_100n_100Vdc_X5R
+  footprint: 'Capacitors_SMD:C_0402'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: 0.55
+      y_mm: -0.0
+    - pin: 2
+      x_mm: -0.55
+      y_mm: 0.0
+- value: C0805_10u_25Vdc_X7R
+  footprint: 'Capacitors_SMD:C_0805'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: -1.0
+      y_mm: 0.0
+    - pin: 2
+      x_mm: 1.0
+      y_mm: 0.0
+- value: C0402_1p5_100Vdc_C0G
+  footprint: 'Capacitors_SMD:C_0402'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: 0.55
+      y_mm: -0.0
+    - pin: 2
+      x_mm: -0.55
+      y_mm: 0.0
+- value: LED0402_SMLP13WBC8W1
+  footprint: 'LEDs:LED_0603'
+  pin_count: 2
+  pads:
+    - pin: 2
+      x_mm: 0.7493
+      y_mm: 0.0
+    - pin: 1
+      x_mm: -0.7493
+      y_mm: -0.0
+- value: BL0603_BLM18KG121TN1D
+  footprint: 'Resistors_SMD:R_0603'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: -0.75
+      y_mm: 0.0
+    - pin: 2
+      x_mm: 0.75
+      y_mm: 0.0
+- value: LQG15HN_2n2
+  footprint: 'Resistors_SMD:R_0402'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: -0.45
+      y_mm: 0.0
+    - pin: 2
+      x_mm: 0.45
+      y_mm: 0.0
+- value: R0402_330R
+  footprint: 'Resistors_SMD:R_0402'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: 0.45
+      y_mm: 0.0
+    - pin: 2
+      x_mm: -0.45
+      y_mm: -0.0
+- value: R0402_56k
+  footprint: 'Resistors_SMD:R_0402'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: 0.45
+      y_mm: 0.0
+    - pin: 2
+      x_mm: -0.45
+      y_mm: -0.0
+- value: R0402_100R
+  footprint: 'Resistors_SMD:R_0402'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: 0.45
+      y_mm: 0.0
+    - pin: 2
+      x_mm: -0.45
+      y_mm: -0.0
+- value: R0402_10k
+  footprint: 'Resistors_SMD:R_0402'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: -0.45
+      y_mm: 0.0
+    - pin: 2
+      x_mm: 0.45
+      y_mm: 0.0
+- value: USBLC6-4
+  footprint: 'TO_SOT_Packages_SMD:SOT-23-6'
+  pin_count: 6
+  pads:
+    - pin: 1
+      x_mm: 1.1
+      y_mm: 0.95
+    - pin: 2
+      x_mm: 1.1
+      y_mm: -0.0
+    - pin: 3
+      x_mm: 1.1
+      y_mm: -0.95
+    - pin: 4
+      x_mm: -1.1
+      y_mm: -0.95
+    - pin: 6
+      x_mm: -1.1
+      y_mm: 0.95
+    - pin: 5
+      x_mm: -1.1
+      y_mm: 0.0
+- value: NX2520SA-32.000000MHZ
+  footprint: 'Jonas:NX2520'
+  pin_count: 4
+  pads:
+    - pin: 1
+      x_mm: -0.85
+      y_mm: 0.65
+    - pin: 2
+      x_mm: 0.85
+      y_mm: 0.65
+    - pin: 3
+      x_mm: 0.85
+      y_mm: -0.65
+    - pin: 4
+      x_mm: -0.85
+      y_mm: -0.65
+- value: R0402_2R20
+  footprint: 'Resistors_SMD:R_0402'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: 0.45
+      y_mm: -0.0
+    - pin: 2
+      x_mm: -0.45
+      y_mm: 0.0
+- value: R0402_6k80
+  footprint: 'Resistors_SMD:R_0402'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: 0.45
+      y_mm: -0.0
+    - pin: 2
+      x_mm: -0.45
+      y_mm: 0.0
+- value: R0402_1k50
+  footprint: 'Resistors_SMD:R_0402'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: -0.45
+      y_mm: 0.0
+    - pin: 2
+      x_mm: 0.45
+      y_mm: 0.0
+- value: R0402_1R
+  footprint: 'Resistors_SMD:R_0402'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: -0.45
+      y_mm: 0.0
+    - pin: 2
+      x_mm: 0.45
+      y_mm: 0.0
+- value: PCAP_220u_11
+  footprint: 'Capacitors_SMD:c_elec_5x5.3'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: -2.19964
+      y_mm: 0.0
+    - pin: 2
+      x_mm: 2.19964
+      y_mm: -0.0
+- value: MX30LF1G08AA
+  footprint: 'Jonas:VFBGA63'
+  pin_count: 63
+  pads:
+    - pin: A1
+      x_mm: 3.6
+      y_mm: 4.4
+    - pin: A2
+      x_mm: 2.8
+      y_mm: 4.4
+    - pin: A9
+      x_mm: -2.8
+      y_mm: 4.4
+    - pin: A10
+      x_mm: -3.6
+      y_mm: 4.4
+    - pin: B1
+      x_mm: 3.6
+      y_mm: 3.6
+    - pin: B9
+      x_mm: -2.8
+      y_mm: 3.6
+    - pin: B10
+      x_mm: -3.6
+      y_mm: 3.6
+    - pin: C3
+      x_mm: 2.0
+      y_mm: 2.8
+    - pin: C4
+      x_mm: 1.2
+      y_mm: 2.8
+    - pin: C5
+      x_mm: 0.4
+      y_mm: 2.8
+    - pin: C6
+      x_mm: -0.4
+      y_mm: 2.8
+    - pin: C7
+      x_mm: -1.2
+      y_mm: 2.8
+    - pin: C8
+      x_mm: -2.0
+      y_mm: 2.8
+    - pin: D3
+      x_mm: 2.0
+      y_mm: 2.0
+    - pin: D4
+      x_mm: 1.2
+      y_mm: 2.0
+    - pin: D5
+      x_mm: 0.4
+      y_mm: 2.0
+    - pin: D6
+      x_mm: -0.4
+      y_mm: 2.0
+    - pin: D7
+      x_mm: -1.2
+      y_mm: 2.0
+    - pin: D8
+      x_mm: -2.0
+      y_mm: 2.0
+    - pin: E3
+      x_mm: 2.0
+      y_mm: 1.2
+    - pin: E4
+      x_mm: 1.2
+      y_mm: 1.2
+    - pin: E5
+      x_mm: 0.4
+      y_mm: 1.2
+    - pin: E6
+      x_mm: -0.4
+      y_mm: 1.2
+    - pin: E7
+      x_mm: -1.2
+      y_mm: 1.2
+    - pin: E8
+      x_mm: -2.0
+      y_mm: 1.2
+    - pin: F3
+      x_mm: 2.0
+      y_mm: 0.4
+    - pin: F4
+      x_mm: 1.2
+      y_mm: 0.4
+    - pin: F5
+      x_mm: 0.4
+      y_mm: 0.4
+    - pin: F6
+      x_mm: -0.4
+      y_mm: 0.4
+    - pin: F7
+      x_mm: -1.2
+      y_mm: 0.4
+    - pin: F8
+      x_mm: -2.0
+      y_mm: 0.4
+    - pin: G3
+      x_mm: 2.0
+      y_mm: -0.4
+    - pin: G4
+      x_mm: 1.2
+      y_mm: -0.4
+    - pin: G5
+      x_mm: 0.4
+      y_mm: -0.4
+    - pin: G6
+      x_mm: -0.4
+      y_mm: -0.4
+    - pin: G7
+      x_mm: -1.2
+      y_mm: -0.4
+    - pin: G8
+      x_mm: -2.0
+      y_mm: -0.4
+    - pin: H3
+      x_mm: 2.0
+      y_mm: -1.2
+    - pin: H4
+      x_mm: 1.2
+      y_mm: -1.2
+    - pin: H5
+      x_mm: 0.4
+      y_mm: -1.2
+    - pin: H6
+      x_mm: -0.4
+      y_mm: -1.2
+    - pin: H7
+      x_mm: -1.2
+      y_mm: -1.2
+    - pin: H8
+      x_mm: -2.0
+      y_mm: -1.2
+    - pin: J3
+      x_mm: 2.0
+      y_mm: -2.0
+    - pin: J4
+      x_mm: 1.2
+      y_mm: -2.0
+    - pin: J5
+      x_mm: 0.4
+      y_mm: -2.0
+    - pin: J6
+      x_mm: -0.4
+      y_mm: -2.0
+    - pin: J7
+      x_mm: -1.2
+      y_mm: -2.0
+    - pin: J8
+      x_mm: -2.0
+      y_mm: -2.0
+    - pin: K3
+      x_mm: 2.0
+      y_mm: -2.8
+    - pin: K4
+      x_mm: 1.2
+      y_mm: -2.8
+    - pin: K5
+      x_mm: 0.4
+      y_mm: -2.8
+    - pin: K6
+      x_mm: -0.4
+      y_mm: -2.8
+    - pin: K7
+      x_mm: -1.2
+      y_mm: -2.8
+    - pin: K8
+      x_mm: -2.0
+      y_mm: -2.8
+    - pin: L1
+      x_mm: 3.6
+      y_mm: -3.6
+    - pin: L2
+      x_mm: 2.8
+      y_mm: -3.6
+    - pin: L9
+      x_mm: -2.8
+      y_mm: -3.6
+    - pin: L10
+      x_mm: -3.6
+      y_mm: -3.6
+    - pin: M1
+      x_mm: 3.6
+      y_mm: -4.4
+    - pin: M2
+      x_mm: 2.8
+      y_mm: -4.4
+    - pin: M9
+      x_mm: -2.8
+      y_mm: -4.4
+    - pin: M10
+      x_mm: -3.6
+      y_mm: -4.4
+- value: LAN8710
+  footprint: 'Housings_DFN_QFN:QFN-32-1EP_5x5mm_Pitch0.5mm'
+  pin_count: 36
+  pads:
+    - pin: 1
+      x_mm: 2.4
+      y_mm: 1.75
+    - pin: 2
+      x_mm: 2.4
+      y_mm: 1.25
+    - pin: 3
+      x_mm: 2.4
+      y_mm: 0.75
+    - pin: 4
+      x_mm: 2.4
+      y_mm: 0.25
+    - pin: 5
+      x_mm: 2.4
+      y_mm: -0.25
+    - pin: 6
+      x_mm: 2.4
+      y_mm: -0.75
+    - pin: 7
+      x_mm: 2.4
+      y_mm: -1.25
+    - pin: 8
+      x_mm: 2.4
+      y_mm: -1.75
+    - pin: 9
+      x_mm: 1.75
+      y_mm: -2.4
+    - pin: 10
+      x_mm: 1.25
+      y_mm: -2.4
+    - pin: 11
+      x_mm: 0.75
+      y_mm: -2.4
+    - pin: 12
+      x_mm: 0.25
+      y_mm: -2.4
+    - pin: 13
+      x_mm: -0.25
+      y_mm: -2.4
+    - pin: 14
+      x_mm: -0.75
+      y_mm: -2.4
+    - pin: 15
+      x_mm: -1.25
+      y_mm: -2.4
+    - pin: 16
+      x_mm: -1.75
+      y_mm: -2.4
+    - pin: 17
+      x_mm: -2.4
+      y_mm: -1.75
+    - pin: 18
+      x_mm: -2.4
+      y_mm: -1.25
+    - pin: 19
+      x_mm: -2.4
+      y_mm: -0.75
+    - pin: 20
+      x_mm: -2.4
+      y_mm: -0.25
+    - pin: 21
+      x_mm: -2.4
+      y_mm: 0.25
+    - pin: 22
+      x_mm: -2.4
+      y_mm: 0.75
+    - pin: 23
+      x_mm: -2.4
+      y_mm: 1.25
+    - pin: 24
+      x_mm: -2.4
+      y_mm: 1.75
+    - pin: 25
+      x_mm: -1.75
+      y_mm: 2.4
+    - pin: 26
+      x_mm: -1.25
+      y_mm: 2.4
+    - pin: 27
+      x_mm: -0.75
+      y_mm: 2.4
+    - pin: 28
+      x_mm: -0.25
+      y_mm: 2.4
+    - pin: 29
+      x_mm: 0.25
+      y_mm: 2.4
+    - pin: 30
+      x_mm: 0.75
+      y_mm: 2.4
+    - pin: 31
+      x_mm: 1.25
+      y_mm: 2.4
+    - pin: 32
+      x_mm: 1.75
+      y_mm: 2.4
+    - pin: 33
+      x_mm: -0.8625
+      y_mm: -0.8625
+    - pin: 33
+      x_mm: -0.8625
+      y_mm: 0.8625
+    - pin: 33
+      x_mm: 0.8625
+      y_mm: -0.8625
+    - pin: 33
+      x_mm: 0.8625
+      y_mm: 0.8625
+- value: LQM21FN100N00L
+  footprint: 'Resistors_SMD:R_0805'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: 0.95
+      y_mm: 0.0
+    - pin: 2
+      x_mm: -0.95
+      y_mm: -0.0
+- value: LQM21PN1R0MC0D
+  footprint: 'Resistors_SMD:R_0805'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: -0.95
+      y_mm: -0.0
+    - pin: 2
+      x_mm: 0.95
+      y_mm: 0.0
+- value: LQH2MCN100K02L
+  footprint: 'Resistors_SMD:R_0805'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: 0.95
+      y_mm: 0.0
+    - pin: 2
+      x_mm: -0.95
+      y_mm: -0.0
+- value: MIC23254
+  footprint: 'Jonas:MLF-10'
+  pin_count: 10
+  pads:
+    - pin: 1
+      x_mm: 0.8
+      y_mm: -0.875
+    - pin: 2
+      x_mm: 0.4
+      y_mm: -0.925
+    - pin: 3
+      x_mm: 0.0
+      y_mm: -0.925
+    - pin: 4
+      x_mm: -0.4
+      y_mm: -0.925
+    - pin: 5
+      x_mm: -0.8
+      y_mm: -0.925
+    - pin: 6
+      x_mm: -0.8
+      y_mm: 0.925
+    - pin: 7
+      x_mm: -0.4
+      y_mm: 0.925
+    - pin: 8
+      x_mm: -0.0
+      y_mm: 0.925
+    - pin: 9
+      x_mm: 0.4
+      y_mm: 0.925
+    - pin: 10
+      x_mm: 0.8
+      y_mm: 0.925
+- value: C1206_1n5_1000Vdc_X7R
+  footprint: 'Capacitors_SMD:C_1206'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: -1.5
+      y_mm: 0.0
+    - pin: 2
+      x_mm: 1.5
+      y_mm: 0.0
+- value: R0402_12k10
+  footprint: 'Resistors_SMD:R_0402'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: -0.45
+      y_mm: -0.0
+    - pin: 2
+      x_mm: 0.45
+      y_mm: 0.0
+- value: R0603_49R90
+  footprint: 'Resistors_SMD:R_0603'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: 0.75
+      y_mm: 0.0
+    - pin: 2
+      x_mm: -0.75
+      y_mm: -0.0
+- value: R0603_75R
+  footprint: 'Resistors_SMD:R_0603'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: -0.75
+      y_mm: -0.0
+    - pin: 2
+      x_mm: 0.75
+      y_mm: 0.0
+- value: NX2520SA-25.000M-STD-CSW-5
+  footprint: 'Jonas:NX2520'
+  pin_count: 4
+  pads:
+    - pin: 1
+      x_mm: -0.85
+      y_mm: 0.65
+    - pin: 2
+      x_mm: 0.85
+      y_mm: 0.65
+    - pin: 3
+      x_mm: 0.85
+      y_mm: -0.65
+    - pin: 4
+      x_mm: -0.85
+      y_mm: -0.65
+- value: NX3225GA-12.000M-STD-CRA-1
+  footprint: 'Jonas:NX3225'
+  pin_count: 4
+  pads:
+    - pin: 1
+      x_mm: -1.1
+      y_mm: 0.8
+    - pin: 2
+      x_mm: 1.1
+      y_mm: 0.8
+    - pin: 3
+      x_mm: 1.1
+      y_mm: -0.8
+    - pin: 4
+      x_mm: -1.1
+      y_mm: -0.8
+- value: TPS62742
+  footprint: 'Jonas:R-PWSON-N12'
+  pin_count: 20
+  pads:
+    - pin: 1
+      x_mm: 1.25
+      y_mm: -0.95
+    - pin: 2
+      x_mm: 0.75
+      y_mm: -0.95
+    - pin: 3
+      x_mm: 0.25
+      y_mm: -0.95
+    - pin: 4
+      x_mm: -0.25
+      y_mm: -0.95
+    - pin: 5
+      x_mm: -0.75
+      y_mm: -0.95
+    - pin: 6
+      x_mm: -1.25
+      y_mm: -0.95
+    - pin: 7
+      x_mm: -1.25
+      y_mm: 0.95
+    - pin: 8
+      x_mm: -0.75
+      y_mm: 0.95
+    - pin: 9
+      x_mm: -0.25
+      y_mm: 0.95
+    - pin: 10
+      x_mm: 0.25
+      y_mm: 0.95
+    - pin: 11
+      x_mm: 0.75
+      y_mm: 0.95
+    - pin: 12
+      x_mm: 1.25
+      y_mm: 0.95
+    - pin: 13
+      x_mm: 0.7
+      y_mm: -0.0
+    - pin: 13
+      x_mm: -0.7
+      y_mm: 0.0
+    - pin: 13
+      x_mm: 0.0
+      y_mm: 0.0
+    - pin: 13
+      x_mm: -1.4
+      y_mm: 0.25
+    - pin: 13
+      x_mm: -1.4
+      y_mm: -0.25
+    - pin: 13
+      x_mm: 1.4
+      y_mm: 0.25
+    - pin: 13
+      x_mm: 1.4
+      y_mm: -0.25
+    - pin: 13
+      x_mm: 0.0
+      y_mm: 0.0
+- value: IHLP1212_2u2_2
+  footprint: 'Jonas:IHLP1212'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: 1.3
+      y_mm: -0.0
+    - pin: 2
+      x_mm: -1.4
+      y_mm: 0.0
+- value: NX2012SA-32.768K-STD-MUB-1
+  footprint: 'Jonas:NX2012'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: -0.75
+      y_mm: 0.0
+    - pin: 3
+      x_mm: 0.75
+      y_mm: 0.0
+- value: C0402_10n_50Vdc_X7R
+  footprint: 'Capacitors_SMD:C_0402'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: 0.55
+      y_mm: 0.0
+    - pin: 2
+      x_mm: -0.55
+      y_mm: -0.0
+- value: R0402_100k
+  footprint: 'Resistors_SMD:R_0402'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: 0.45
+      y_mm: -0.0
+    - pin: 2
+      x_mm: -0.45
+      y_mm: 0.0
+- value: LP3470M5-3.08
+  footprint: 'TO_SOT_Packages_SMD:SOT-23-5'
+  pin_count: 5
+  pads:
+    - pin: 1
+      x_mm: -1.1
+      y_mm: -0.95
+    - pin: 2
+      x_mm: -1.1
+      y_mm: 0.0
+    - pin: 3
+      x_mm: -1.1
+      y_mm: 0.95
+    - pin: 4
+      x_mm: 1.1
+      y_mm: 0.95
+    - pin: 5
+      x_mm: 1.1
+      y_mm: -0.95
+- value: WLA.01
+  footprint: 'Jonas:WLA.01'
+  pin_count: 3
+  pads:
+    - pin: 1
+      x_mm: 1.6
+      y_mm: 0.5
+    - pin: 2
+      x_mm: 1.6
+      y_mm: -0.5
+    - pin: 3
+      x_mm: -1.6
+      y_mm: 0.0
+- value: NCP360SNAET1G
+  footprint: 'TO_SOT_Packages_SMD:SOT-23-5'
+  pin_count: 5
+  pads:
+    - pin: 1
+      x_mm: -1.1
+      y_mm: -0.95
+    - pin: 2
+      x_mm: -1.1
+      y_mm: 0.0
+    - pin: 3
+      x_mm: -1.1
+      y_mm: 0.95
+    - pin: 4
+      x_mm: 1.1
+      y_mm: 0.95
+    - pin: 5
+      x_mm: 1.1
+      y_mm: -0.95
+- value: C0805_20n_50Vdc_X7R
+  footprint: 'Capacitors_SMD:C_0805'
+  pin_count: 2
+  pads:
+    - pin: 1
+      x_mm: -1.0
+      y_mm: 0.0
+    - pin: 2
+      x_mm: 1.0
+      y_mm: 0.0
+- value: LED0402_SML-P11MTT86
+  footprint: 'LEDs:LED_0603'
+  pin_count: 2
+  pads:
+    - pin: 2
+      x_mm: -0.7493
+      y_mm: -0.0
+    - pin: 1
+      x_mm: 0.7493
+      y_mm: 0.0
+- value: 2450BM15B0002
+  footprint: 'Jonas:2450BM15B0002'
+  pin_count: 6
+  pads:
+    - pin: 1
+      x_mm: 0.65
+      y_mm: -0.9
+    - pin: 2
+      x_mm: 0.0
+      y_mm: -0.9
+    - pin: 3
+      x_mm: -0.65
+      y_mm: -0.9
+    - pin: 4
+      x_mm: -0.65
+      y_mm: 0.9
+    - pin: 5
+      x_mm: 0.0
+      y_mm: 0.9
+    - pin: 6
+      x_mm: 0.65
+      y_mm: 0.9
+- value: PIMC31
+  footprint: 'TO_SOT_Packages_SMD:SOT-23-6'
+  pin_count: 6
+  pads:
+    - pin: 1
+      x_mm: 1.1
+      y_mm: 0.95
+    - pin: 2
+      x_mm: 1.1
+      y_mm: 0.0
+    - pin: 3
+      x_mm: 1.1
+      y_mm: -0.95
+    - pin: 4
+      x_mm: -1.1
+      y_mm: -0.95
+    - pin: 6
+      x_mm: -1.1
+      y_mm: 0.95
+    - pin: 5
+      x_mm: -1.1
+      y_mm: -0.0
+- value: S558-5999-T7-F
+  footprint: 'Jonas:Ethernet_trafo_so16w'
+  pin_count: 16
+  pads:
+    - pin: 1
+      x_mm: 4.445
+      y_mm: -4.51
+    - pin: 2
+      x_mm: 3.175
+      y_mm: -4.51
+    - pin: 3
+      x_mm: 1.905
+      y_mm: -4.51
+    - pin: 4
+      x_mm: 0.635
+      y_mm: -4.51
+    - pin: 5
+      x_mm: -0.635
+      y_mm: -4.51
+    - pin: 6
+      x_mm: -1.905
+      y_mm: -4.51
+    - pin: 7
+      x_mm: -3.175
+      y_mm: -4.51
+    - pin: 8
+      x_mm: -4.445
+      y_mm: -4.51
+    - pin: 9
+      x_mm: -4.445
+      y_mm: 4.51
+    - pin: 10
+      x_mm: -3.175
+      y_mm: 4.51
+    - pin: 11
+      x_mm: -1.905
+      y_mm: 4.51
+    - pin: 12
+      x_mm: -0.635
+      y_mm: 4.51
+    - pin: 13
+      x_mm: 0.635
+      y_mm: 4.51
+    - pin: 14
+      x_mm: 1.905
+      y_mm: 4.51
+    - pin: 15
+      x_mm: 3.175
+      y_mm: 4.51
+    - pin: 16
+      x_mm: 4.445
+      y_mm: 4.51
+- value: IS46DR16640B
+  footprint: 'Jonas:BGA-90-0.8mm'
+  pin_count: 90
+  pads:
+    - pin: A1
+      x_mm: 3.2004
+      y_mm: 5.6007
+    - pin: A2
+      x_mm: 2.4003
+      y_mm: 5.6007
+    - pin: A3
+      x_mm: 1.6002
+      y_mm: 5.6007
+    - pin: A7
+      x_mm: -1.6002
+      y_mm: 5.6007
+    - pin: A8
+      x_mm: -2.4003
+      y_mm: 5.6007
+    - pin: A9
+      x_mm: -3.2004
+      y_mm: 5.6007
+    - pin: B1
+      x_mm: 3.2004
+      y_mm: 4.8006
+    - pin: C1
+      x_mm: 3.2004
+      y_mm: 4.0005
+    - pin: D1
+      x_mm: 3.2004
+      y_mm: 3.2004
+    - pin: E1
+      x_mm: 3.2004
+      y_mm: 2.40284
+    - pin: F1
+      x_mm: 3.2004
+      y_mm: 1.60274
+    - pin: G1
+      x_mm: 3.2004
+      y_mm: 0.80264
+    - pin: H1
+      x_mm: 3.2004
+      y_mm: 0.00254
+    - pin: H2
+      x_mm: 2.4003
+      y_mm: 0.00254
+    - pin: H3
+      x_mm: 1.6002
+      y_mm: 0.00254
+    - pin: H7
+      x_mm: -1.59766
+      y_mm: -0.0
+    - pin: H8
+      x_mm: -2.39776
+      y_mm: -0.0
+    - pin: H9
+      x_mm: -3.19786
+      y_mm: -0.0
+    - pin: G9
+      x_mm: -3.19786
+      y_mm: 0.8001
+    - pin: F9
+      x_mm: -3.19786
+      y_mm: 1.6002
+    - pin: E9
+      x_mm: -3.19786
+      y_mm: 2.4003
+    - pin: D9
+      x_mm: -3.19786
+      y_mm: 3.19786
+    - pin: C9
+      x_mm: -3.19786
+      y_mm: 3.99796
+    - pin: B9
+      x_mm: -3.19786
+      y_mm: 4.79806
+    - pin: D3
+      x_mm: 1.6002
+      y_mm: 3.2004
+    - pin: E3
+      x_mm: 1.6002
+      y_mm: 2.40284
+    - pin: E7
+      x_mm: -1.59766
+      y_mm: 2.4003
+    - pin: D7
+      x_mm: -1.59766
+      y_mm: 3.19786
+    - pin: C7
+      x_mm: -1.59766
+      y_mm: 3.99796
+    - pin: C3
+      x_mm: 1.6002
+      y_mm: 4.0005
+    - pin: C2
+      x_mm: 2.4003
+      y_mm: 4.0005
+    - pin: D2
+      x_mm: 2.4003
+      y_mm: 3.2004
+    - pin: E2
+      x_mm: 2.4003
+      y_mm: 2.40284
+    - pin: F2
+      x_mm: 2.4003
+      y_mm: 1.60274
+    - pin: G2
+      x_mm: 2.4003
+      y_mm: 0.80264
+    - pin: G3
+      x_mm: 1.6002
+      y_mm: 0.80264
+    - pin: F3
+      x_mm: 1.6002
+      y_mm: 1.60274
+    - pin: F7
+      x_mm: -1.59766
+      y_mm: 1.6002
+    - pin: G7
+      x_mm: -1.59766
+      y_mm: 0.8001
+    - pin: G8
+      x_mm: -2.39776
+      y_mm: 0.8001
+    - pin: F8
+      x_mm: -2.39776
+      y_mm: 1.6002
+    - pin: E8
+      x_mm: -2.39776
+      y_mm: 2.4003
+    - pin: D8
+      x_mm: -2.39776
+      y_mm: 3.19786
+    - pin: C8
+      x_mm: -2.39776
+      y_mm: 3.99796
+    - pin: B8
+      x_mm: -2.39776
+      y_mm: 4.79806
+    - pin: B7
+      x_mm: -1.59766
+      y_mm: 4.79806
+    - pin: B3
+      x_mm: 1.6002
+      y_mm: 4.8006
+    - pin: B2
+      x_mm: 2.4003
+      y_mm: 4.8006
+    - pin: R1
+      x_mm: 3.2004
+      y_mm: -5.6007
+    - pin: R9
+      x_mm: -3.2004
+      y_mm: -5.6007
+    - pin: J1
+      x_mm: 3.2004
+      y_mm: -0.8001
+    - pin: J2
+      x_mm: 2.4003
+      y_mm: -0.8001
+    - pin: J3
+      x_mm: 1.6002
+      y_mm: -0.8001
+    - pin: J7
+      x_mm: -1.6002
+      y_mm: -0.8001
+    - pin: J8
+      x_mm: -2.4003
+      y_mm: -0.8001
+    - pin: J9
+      x_mm: -3.2004
+      y_mm: -0.8001
+    - pin: K1
+      x_mm: 3.2004
+      y_mm: -1.6002
+    - pin: K2
+      x_mm: 2.4003
+      y_mm: -1.6002
+    - pin: K3
+      x_mm: 1.6002
+      y_mm: -1.6002
+    - pin: K7
+      x_mm: -1.6002
+      y_mm: -1.6002
+    - pin: K8
+      x_mm: -2.4003
+      y_mm: -1.6002
+    - pin: K9
+      x_mm: -3.2004
+      y_mm: -1.6002
+    - pin: L1
+      x_mm: 3.2004
+      y_mm: -2.4003
+    - pin: L2
+      x_mm: 2.4003
+      y_mm: -2.4003
+    - pin: L3
+      x_mm: 1.6002
+      y_mm: -2.4003
+    - pin: L7
+      x_mm: -1.6002
+      y_mm: -2.4003
+    - pin: L8
+      x_mm: -2.4003
+      y_mm: -2.4003
+    - pin: L9
+      x_mm: -3.2004
+      y_mm: -2.4003
+    - pin: M1
+      x_mm: 3.2004
+      y_mm: -3.2004
+    - pin: M2
+      x_mm: 2.4003
+      y_mm: -3.2004
+    - pin: M3
+      x_mm: 1.6002
+      y_mm: -3.2004
+    - pin: M7
+      x_mm: -1.6002
+      y_mm: -3.2004
+    - pin: M8
+      x_mm: -2.4003
+      y_mm: -3.2004
+    - pin: M9
+      x_mm: -3.2004
+      y_mm: -3.2004
+    - pin: N1
+      x_mm: 3.2004
+      y_mm: -4.0005
+    - pin: N2
+      x_mm: 2.4003
+      y_mm: -4.0005
+    - pin: N3
+      x_mm: 1.6002
+      y_mm: -4.0005
+    - pin: N7
+      x_mm: -1.6002
+      y_mm: -4.0005
+    - pin: N8
+      x_mm: -2.4003
+      y_mm: -4.0005
+    - pin: N9
+      x_mm: -3.2004
+      y_mm: -4.0005
+    - pin: P1
+      x_mm: 3.2004
+      y_mm: -4.8006
+    - pin: P2
+      x_mm: 2.4003
+      y_mm: -4.8006
+    - pin: P3
+      x_mm: 1.6002
+      y_mm: -4.8006
+    - pin: P7
+      x_mm: -1.6002
+      y_mm: -4.8006
+    - pin: P8
+      x_mm: -2.4003
+      y_mm: -4.8006
+    - pin: P9
+      x_mm: -3.2004
+      y_mm: -4.8006
+    - pin: R2
+      x_mm: 2.4003
+      y_mm: -5.6007
+    - pin: R3
+      x_mm: 1.6002
+      y_mm: -5.6007
+    - pin: R7
+      x_mm: -1.6002
+      y_mm: -5.6007
+    - pin: R8
+      x_mm: -2.4003
+      y_mm: -5.6007
+- value: DX4R005JJ2R1800
+  footprint: 'Jonas:USB_Micro-B'
+  pin_count: 9
+  pads:
+    - pin: 1
+      x_mm: 1.3009
+      y_mm: 1.56254
+    - pin: 2
+      x_mm: 0.6509
+      y_mm: 1.56254
+    - pin: 3
+      x_mm: 0.0009
+      y_mm: 1.56254
+    - pin: 4
+      x_mm: -0.6491
+      y_mm: 1.56254
+    - pin: 5
+      x_mm: -1.2991
+      y_mm: 1.56254
+    - pin: 6
+      x_mm: 2.5009
+      y_mm: 1.56254
+    - pin: 6
+      x_mm: -2.4991
+      y_mm: 1.56254
+    - pin: 6
+      x_mm: 3.5009
+      y_mm: -1.13746
+    - pin: 6
+      x_mm: -3.4991
+      y_mm: -1.13746
+

@@ -1,0 +1,2747 @@
+nets:
+- name: ''
+  code: 0
+  pin_count: 62
+  pins:
+    - ref: J3
+      pin: 0
+    - ref: U7
+      pin: A2
+    - ref: U7
+      pin: B2
+    - ref: U7
+      pin: E2
+    - ref: U7
+      pin: K1
+    - ref: U7
+      pin: L9
+    - ref: U7
+      pin: M1
+    - ref: U7
+      pin: N9
+    - ref: U7
+      pin: P1
+    - ref: U7
+      pin: R3
+    - ref: U7
+      pin: R7
+    - ref: U7
+      pin: R8
+    - ref: U7
+      pin: R9
+    - ref: U8
+      pin: A1
+    - ref: U8
+      pin: A10
+    - ref: U8
+      pin: A2
+    - ref: U8
+      pin: A9
+    - ref: U8
+      pin: B1
+    - ref: U8
+      pin: B10
+    - ref: U8
+      pin: B9
+    - ref: U8
+      pin: D3
+    - ref: U8
+      pin: D6
+    - ref: U8
+      pin: D7
+    - ref: U8
+      pin: D8
+    - ref: U8
+      pin: E3
+    - ref: U8
+      pin: E4
+    - ref: U8
+      pin: E5
+    - ref: U8
+      pin: E6
+    - ref: U8
+      pin: E7
+    - ref: U8
+      pin: E8
+    - ref: U8
+      pin: F3
+    - ref: U8
+      pin: F4
+    - ref: U8
+      pin: F5
+    - ref: U8
+      pin: F6
+    - ref: U8
+      pin: F7
+    - ref: U8
+      pin: F8
+    - ref: U8
+      pin: G3
+    - ref: U8
+      pin: G4
+    - ref: U8
+      pin: G5
+    - ref: U8
+      pin: G6
+    - ref: U8
+      pin: G7
+    - ref: U8
+      pin: G8
+    - ref: U8
+      pin: H3
+    - ref: U8
+      pin: H5
+    - ref: U8
+      pin: H6
+    - ref: U8
+      pin: H7
+    - ref: U8
+      pin: J3
+    - ref: U8
+      pin: J5
+    - ref: U8
+      pin: L1
+    - ref: U8
+      pin: L10
+    - ref: U8
+      pin: L2
+    - ref: U8
+      pin: L9
+    - ref: U8
+      pin: M1
+    - ref: U8
+      pin: M10
+    - ref: U8
+      pin: M2
+    - ref: U8
+      pin: M9
+    - ref: X1
+      pin: 2
+    - ref: X1
+      pin: 4
+    - ref: X3
+      pin: 2
+    - ref: X3
+      pin: 4
+    - ref: X4
+      pin: 2
+    - ref: X4
+      pin: 4
+- name: /A10
+  code: 163
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: G14
+    - ref: U7
+      pin: P8
+- name: /A11
+  code: 160
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: F15
+    - ref: U7
+      pin: P3
+- name: /A13
+  code: 153
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: C17
+    - ref: U7
+      pin: P7
+- name: /A14
+  code: 158
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: E16
+    - ref: U7
+      pin: R2
+- name: /A2
+  code: 167
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: H15
+    - ref: U7
+      pin: M8
+- name: /A3
+  code: 168
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: H17
+    - ref: U7
+      pin: M3
+- name: /A4
+  code: 166
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: G17
+    - ref: U7
+      pin: M7
+- name: /A5
+  code: 165
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: G16
+    - ref: U7
+      pin: N2
+- name: /A6
+  code: 162
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: F17
+    - ref: U7
+      pin: N8
+- name: /A7
+  code: 159
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: E17
+    - ref: U7
+      pin: N3
+- name: /A8
+  code: 161
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: F16
+    - ref: U7
+      pin: N7
+- name: /A9
+  code: 164
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: G15
+    - ref: U7
+      pin: P2
+- name: /BA0
+  code: 152
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: C16
+    - ref: U7
+      pin: L2
+- name: /BA1
+  code: 144
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: B17
+    - ref: U7
+      pin: L3
+- name: /BA2
+  code: 157
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: E15
+    - ref: U7
+      pin: L1
+- name: /CAS_N
+  code: 146
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: C10
+    - ref: U7
+      pin: L7
+- name: /CKE
+  code: 139
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: B12
+    - ref: U7
+      pin: K2
+- name: /CK_N
+  code: 147
+  pin_count: 3
+  pins:
+    - ref: R8
+      pin: 2
+    - ref: U1
+      pin: C11
+    - ref: U7
+      pin: K8
+- name: /CK_P
+  code: 184
+  pin_count: 3
+  pins:
+    - ref: R8
+      pin: 1
+    - ref: U1
+      pin: D11
+    - ref: U7
+      pin: J8
+- name: /CR
+  code: 204
+  pin_count: 3
+  pins:
+    - ref: C90
+      pin: 1
+    - ref: C91
+      pin: 1
+    - ref: U9
+      pin: 6
+- name: /CS_N
+  code: 136
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: B8
+    - ref: U7
+      pin: L8
+- name: /DCUPL
+  code: 13
+  pin_count: 2
+  pins:
+    - ref: C27
+      pin: 1
+    - ref: U3
+      pin: 27
+- name: /DDR_VREF
+  code: 124
+  pin_count: 4
+  pins:
+    - ref: C55
+      pin: 1
+    - ref: L12
+      pin: 2
+    - ref: R18
+      pin: 1
+    - ref: R20
+      pin: 1
+- name: /DHSDM
+  code: 249
+  pin_count: 4
+  pins:
+    - ref: J1
+      pin: 2
+    - ref: R42
+      pin: 1
+    - ref: U1
+      pin: U15
+    - ref: U2
+      pin: 1
+- name: /DHSDP
+  code: 250
+  pin_count: 4
+  pins:
+    - ref: J1
+      pin: 3
+    - ref: R43
+      pin: 1
+    - ref: U1
+      pin: U14
+    - ref: U2
+      pin: 3
+- name: /DQ0
+  code: 155
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: D14
+    - ref: U7
+      pin: G8
+- name: /DQ1
+  code: 156
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: D15
+    - ref: U7
+      pin: G2
+- name: /DQ10
+  code: 154
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: D12
+    - ref: U7
+      pin: D7
+- name: /DQ11
+  code: 149
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: C13
+    - ref: U7
+      pin: D3
+- name: /DQ12
+  code: 132
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: A14
+    - ref: U7
+      pin: D1
+- name: /DQ13
+  code: 140
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: B13
+    - ref: U7
+      pin: D9
+- name: /DQ14
+  code: 131
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: A13
+    - ref: U7
+      pin: B1
+- name: /DQ15
+  code: 148
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: C12
+    - ref: U7
+      pin: B9
+- name: /DQ2
+  code: 134
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: A16
+    - ref: U7
+      pin: H7
+- name: /DQ3
+  code: 143
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: B16
+    - ref: U7
+      pin: H3
+- name: /DQ4
+  code: 135
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: A17
+    - ref: U7
+      pin: H1
+- name: /DQ5
+  code: 142
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: B15
+    - ref: U7
+      pin: H9
+- name: /DQ6
+  code: 150
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: C14
+    - ref: U7
+      pin: F1
+- name: /DQ7
+  code: 141
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: B14
+    - ref: U7
+      pin: F9
+- name: /DQ8
+  code: 133
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: A15
+    - ref: U7
+      pin: C8
+- name: /DQ9
+  code: 151
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: C15
+    - ref: U7
+      pin: C2
+- name: /DRX
+  code: 246
+  pin_count: 2
+  pins:
+    - ref: R40
+      pin: 2
+    - ref: U1
+      pin: U3
+- name: /DTX
+  code: 247
+  pin_count: 2
+  pins:
+    - ref: R41
+      pin: 2
+    - ref: U1
+      pin: T1
+- name: /ENET_COL
+  code: 248
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: B1
+    - ref: U9
+      pin: 15
+- name: /ENET_CRS
+  code: 222
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: A1
+    - ref: U9
+      pin: 14
+- name: /ENET_MDC
+  code: 224
+  pin_count: 3
+  pins:
+    - ref: R32
+      pin: 1
+    - ref: U1
+      pin: B3
+    - ref: U9
+      pin: 17
+- name: /ENET_MDIO
+  code: 223
+  pin_count: 3
+  pins:
+    - ref: R31
+      pin: 1
+    - ref: U1
+      pin: E3
+    - ref: U9
+      pin: 16
+- name: /ENET_RST_N
+  code: 226
+  pin_count: 3
+  pins:
+    - ref: R33
+      pin: 1
+    - ref: U1
+      pin: D5
+    - ref: U9
+      pin: 19
+- name: /ENET_RXCLK
+  code: 216
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: C3
+    - ref: U9
+      pin: 7
+- name: /ENET_RXD0
+  code: 220
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: D3
+    - ref: U9
+      pin: 11
+- name: /ENET_RXD1
+  code: 219
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: D4
+    - ref: U9
+      pin: 10
+- name: /ENET_RXD2
+  code: 218
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: A2
+    - ref: U9
+      pin: 9
+- name: /ENET_RXD3
+  code: 217
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: C4
+    - ref: U9
+      pin: 8
+- name: /ENET_RXDV
+  code: 233
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: E4
+    - ref: U9
+      pin: 26
+- name: /ENET_RXER
+  code: 221
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: D2
+    - ref: U9
+      pin: 13
+- name: /ENET_TXCLK
+  code: 227
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: D1
+    - ref: U9
+      pin: 20
+- name: /ENET_TXD0
+  code: 229
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: C1
+    - ref: U9
+      pin: 22
+- name: /ENET_TXD1
+  code: 230
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: B2
+    - ref: U9
+      pin: 23
+- name: /ENET_TXD2
+  code: 231
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: A3
+    - ref: U9
+      pin: 24
+- name: /ENET_TXD3
+  code: 232
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: B4
+    - ref: U9
+      pin: 25
+- name: /ENET_TXEN
+  code: 228
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: C2
+    - ref: U9
+      pin: 21
+- name: /ENET_TXER
+  code: 225
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: C5
+    - ref: U9
+      pin: 18
+- name: /JTAG_RTCK
+  code: 239
+  pin_count: 2
+  pins:
+    - ref: J3
+      pin: 10
+    - ref: U1
+      pin: R10
+- name: /JTAG_TCK
+  code: 240
+  pin_count: 3
+  pins:
+    - ref: J3
+      pin: 12
+    - ref: R39
+      pin: 2
+    - ref: U1
+      pin: U10
+- name: /JTAG_TDI
+  code: 242
+  pin_count: 3
+  pins:
+    - ref: J3
+      pin: 16
+    - ref: R37
+      pin: 2
+    - ref: U1
+      pin: T9
+- name: /JTAG_TDO
+  code: 238
+  pin_count: 2
+  pins:
+    - ref: J3
+      pin: 8
+    - ref: U1
+      pin: T10
+- name: /JTAG_TMS
+  code: 241
+  pin_count: 3
+  pins:
+    - ref: J3
+      pin: 14
+    - ref: R38
+      pin: 2
+    - ref: U1
+      pin: U11
+- name: /JTAG_TRST_N
+  code: 243
+  pin_count: 2
+  pins:
+    - ref: J3
+      pin: 18
+    - ref: U1
+      pin: T11
+- name: /LDM
+  code: 128
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: A10
+    - ref: U7
+      pin: F3
+- name: /LDQS
+  code: 129
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: A11
+    - ref: U7
+      pin: F7
+- name: /NAND_ALE
+  code: 180
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: R13
+    - ref: U8
+      pin: C4
+- name: /NAND_CLE
+  code: 179
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: P15
+    - ref: U8
+      pin: D5
+- name: /NAND_CS_N
+  code: 176
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: P12
+    - ref: U8
+      pin: C6
+- name: /NAND_D0
+  code: 172
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: N14
+    - ref: U8
+      pin: H4
+- name: /NAND_D1
+  code: 182
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: R15
+    - ref: U8
+      pin: J4
+- name: /NAND_D2
+  code: 170
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: M14
+    - ref: U8
+      pin: K4
+- name: /NAND_D3
+  code: 174
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: N16
+    - ref: U8
+      pin: K5
+- name: /NAND_D4
+  code: 175
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: N17
+    - ref: U8
+      pin: K6
+- name: /NAND_D5
+  code: 173
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: N15
+    - ref: U8
+      pin: J7
+- name: /NAND_D6
+  code: 169
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: K15
+    - ref: U8
+      pin: K7
+- name: /NAND_D7
+  code: 171
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: M15
+    - ref: U8
+      pin: J8
+- name: /NAND_OE
+  code: 177
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: P13
+    - ref: U8
+      pin: D4
+- name: /NAND_WAIT
+  code: 178
+  pin_count: 3
+  pins:
+    - ref: R21
+      pin: 2
+    - ref: U1
+      pin: P14
+    - ref: U8
+      pin: C8
+- name: /NAND_WE
+  code: 181
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: R14
+    - ref: U8
+      pin: C7
+- name: /RAS_N
+  code: 138
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: B11
+    - ref: U7
+      pin: K7
+- name: /RBIAS
+  code: 24
+  pin_count: 2
+  pins:
+    - ref: R7
+      pin: 1
+    - ref: U3
+      pin: 23
+- name: /RST_N
+  code: 32
+  pin_count: 5
+  pins:
+    - ref: J3
+      pin: 6
+    - ref: R44
+      pin: 2
+    - ref: U1
+      pin: P10
+    - ref: U11
+      pin: 5
+    - ref: U5
+      pin: 7
+- name: /SDA10
+  code: 145
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: C8
+    - ref: U7
+      pin: M2
+- name: /UDM
+  code: 137
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: B10
+    - ref: U7
+      pin: B3
+- name: /UDQS
+  code: 127
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: A9
+    - ref: U7
+      pin: B7
+- name: /USB_VBUS
+  code: 121
+  pin_count: 3
+  pins:
+    - ref: FB1
+      pin: 1
+    - ref: J1
+      pin: 1
+    - ref: U2
+      pin: 5
+- name: /WE_N
+  code: 130
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: A12
+    - ref: U7
+      pin: K3
+- name: /ZB_CCA
+  code: 257
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: N1
+    - ref: U3
+      pin: 6
+- name: /ZB_CS_N
+  code: 28
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: R8
+    - ref: U3
+      pin: 3
+- name: /ZB_FIFO_H
+  code: 258
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: P2
+    - ref: U3
+      pin: 7
+- name: /ZB_FIFO_L
+  code: 259
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: R2
+    - ref: U3
+      pin: 9
+- name: /ZB_MISO
+  code: 25
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: T6
+    - ref: U3
+      pin: 1
+- name: /ZB_MOSI
+  code: 26
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: R6
+    - ref: U3
+      pin: 2
+- name: /ZB_RESET_N
+  code: 30
+  pin_count: 3
+  pins:
+    - ref: R15
+      pin: 1
+    - ref: U1
+      pin: R9
+    - ref: U3
+      pin: 25
+- name: /ZB_SCLK
+  code: 27
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: U7
+    - ref: U3
+      pin: 28
+- name: /ZB_SFD
+  code: 256
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: M1
+    - ref: U3
+      pin: 5
+- name: /ZB_VREG_EN
+  code: 119
+  pin_count: 2
+  pins:
+    - ref: U1
+      pin: K4
+    - ref: U3
+      pin: 26
+- name: GND
+  code: 2
+  pin_count: 164
+  pins:
+    - ref: C1
+      pin: 2
+    - ref: C10
+      pin: 2
+    - ref: C11
+      pin: 2
+    - ref: C12
+      pin: 2
+    - ref: C13
+      pin: 2
+    - ref: C14
+      pin: 2
+    - ref: C15
+      pin: 2
+    - ref: C16
+      pin: 2
+    - ref: C17
+      pin: 2
+    - ref: C18
+      pin: 2
+    - ref: C19
+      pin: 2
+    - ref: C2
+      pin: 2
+    - ref: C20
+      pin: 2
+    - ref: C21
+      pin: 2
+    - ref: C22
+      pin: 2
+    - ref: C23
+      pin: 2
+    - ref: C24
+      pin: 2
+    - ref: C25
+      pin: 2
+    - ref: C26
+      pin: 2
+    - ref: C27
+      pin: 2
+    - ref: C28
+      pin: 2
+    - ref: C29
+      pin: 2
+    - ref: C3
+      pin: 2
+    - ref: C30
+      pin: 2
+    - ref: C31
+      pin: 2
+    - ref: C32
+      pin: 2
+    - ref: C33
+      pin: 2
+    - ref: C35
+      pin: 2
+    - ref: C36
+      pin: 2
+    - ref: C37
+      pin: 2
+    - ref: C38
+      pin: 2
+    - ref: C4
+      pin: 2
+    - ref: C40
+      pin: 2
+    - ref: C41
+      pin: 2
+    - ref: C42
+      pin: 2
+    - ref: C44
+      pin: 2
+    - ref: C48
+      pin: 2
+    - ref: C49
+      pin: 2
+    - ref: C5
+      pin: 2
+    - ref: C50
+      pin: 2
+    - ref: C51
+      pin: 2
+    - ref: C52
+      pin: 2
+    - ref: C53
+      pin: 2
+    - ref: C54
+      pin: 2
+    - ref: C56
+      pin: 2
+    - ref: C57
+      pin: 2
+    - ref: C58
+      pin: 2
+    - ref: C59
+      pin: 2
+    - ref: C6
+      pin: 2
+    - ref: C60
+      pin: 2
+    - ref: C61
+      pin: 2
+    - ref: C62
+      pin: 2
+    - ref: C63
+      pin: 2
+    - ref: C64
+      pin: 2
+    - ref: C65
+      pin: 2
+    - ref: C66
+      pin: 2
+    - ref: C67
+      pin: 2
+    - ref: C68
+      pin: 2
+    - ref: C69
+      pin: 2
+    - ref: C7
+      pin: 2
+    - ref: C70
+      pin: 2
+    - ref: C71
+      pin: 2
+    - ref: C72
+      pin: 2
+    - ref: C73
+      pin: 2
+    - ref: C74
+      pin: 2
+    - ref: C75
+      pin: 2
+    - ref: C76
+      pin: 2
+    - ref: C77
+      pin: 2
+    - ref: C78
+      pin: 2
+    - ref: C79
+      pin: 2
+    - ref: C8
+      pin: 2
+    - ref: C80
+      pin: 2
+    - ref: C81
+      pin: 2
+    - ref: C82
+      pin: 2
+    - ref: C83
+      pin: 2
+    - ref: C84
+      pin: 2
+    - ref: C85
+      pin: 2
+    - ref: C86
+      pin: 2
+    - ref: C87
+      pin: 2
+    - ref: C88
+      pin: 2
+    - ref: C89
+      pin: 2
+    - ref: C9
+      pin: 2
+    - ref: C90
+      pin: 2
+    - ref: C91
+      pin: 2
+    - ref: C92
+      pin: 2
+    - ref: C93
+      pin: 2
+    - ref: C94
+      pin: 2
+    - ref: C95
+      pin: 2
+    - ref: C96
+      pin: 2
+    - ref: C97
+      pin: 2
+    - ref: C98
+      pin: 2
+    - ref: D1
+      pin: 2
+    - ref: D2
+      pin: 2
+    - ref: D3
+      pin: 2
+    - ref: J1
+      pin: 5
+    - ref: J1
+      pin: 6
+    - ref: J3
+      pin: 1
+    - ref: J3
+      pin: 11
+    - ref: J3
+      pin: 13
+    - ref: J3
+      pin: 15
+    - ref: J3
+      pin: 17
+    - ref: J3
+      pin: 3
+    - ref: J3
+      pin: 5
+    - ref: J3
+      pin: 7
+    - ref: J3
+      pin: 9
+    - ref: L4
+      pin: 2
+    - ref: L4
+      pin: 5
+    - ref: L4
+      pin: 6
+    - ref: Q1
+      pin: 1
+    - ref: R15
+      pin: 2
+    - ref: R19
+      pin: 2
+    - ref: R23
+      pin: 2
+    - ref: R33
+      pin: 2
+    - ref: R36
+      pin: 2
+    - ref: R4
+      pin: 2
+    - ref: R7
+      pin: 2
+    - ref: U1
+      pin: B6
+    - ref: U1
+      pin: B7
+    - ref: U1
+      pin: D6
+    - ref: U1
+      pin: D7
+    - ref: U1
+      pin: H10
+    - ref: U1
+      pin: H8
+    - ref: U1
+      pin: H9
+    - ref: U1
+      pin: J10
+    - ref: U1
+      pin: J8
+    - ref: U1
+      pin: J9
+    - ref: U1
+      pin: K10
+    - ref: U1
+      pin: M4
+    - ref: U1
+      pin: P6
+    - ref: U1
+      pin: T16
+    - ref: U1
+      pin: U13
+    - ref: U10
+      pin: 2
+    - ref: U11
+      pin: 2
+    - ref: U2
+      pin: 2
+    - ref: U3
+      pin: 29
+    - ref: U3
+      pin: 4
+    - ref: U4
+      pin: 2
+    - ref: U4
+      pin: 3
+    - ref: U5
+      pin: 13
+    - ref: U5
+      pin: 3
+    - ref: U5
+      pin: 4
+    - ref: U6
+      pin: 3
+    - ref: U6
+      pin: 5
+    - ref: U7
+      pin: A3
+    - ref: U7
+      pin: A7
+    - ref: U7
+      pin: B8
+    - ref: U7
+      pin: D2
+    - ref: U7
+      pin: D8
+    - ref: U7
+      pin: E3
+    - ref: U7
+      pin: E7
+    - ref: U7
+      pin: F2
+    - ref: U7
+      pin: F8
+    - ref: U7
+      pin: H2
+    - ref: U7
+      pin: H8
+    - ref: U7
+      pin: J3
+    - ref: U7
+      pin: J7
+    - ref: U7
+      pin: K9
+    - ref: U7
+      pin: N1
+    - ref: U7
+      pin: P9
+    - ref: U8
+      pin: C5
+    - ref: U8
+      pin: K3
+    - ref: U8
+      pin: K8
+    - ref: U9
+      pin: 33
+    - ref: Z1
+      pin: 1
+- name: Net-(C10-Pad1)
+  code: 5
+  pin_count: 4
+  pins:
+    - ref: C10
+      pin: 1
+    - ref: C15
+      pin: 1
+    - ref: L1
+      pin: 2
+    - ref: U1
+      pin: U16
+- name: Net-(C11-Pad1)
+  code: 6
+  pin_count: 4
+  pins:
+    - ref: C11
+      pin: 1
+    - ref: C16
+      pin: 1
+    - ref: L2
+      pin: 2
+    - ref: U1
+      pin: R12
+- name: Net-(C12-Pad1)
+  code: 7
+  pin_count: 4
+  pins:
+    - ref: C12
+      pin: 1
+    - ref: C17
+      pin: 1
+    - ref: L3
+      pin: 2
+    - ref: U1
+      pin: T13
+- name: Net-(C22-Pad1)
+  code: 8
+  pin_count: 3
+  pins:
+    - ref: C22
+      pin: 1
+    - ref: R4
+      pin: 1
+    - ref: U1
+      pin: U17
+- name: Net-(C23-Pad1)
+  code: 9
+  pin_count: 3
+  pins:
+    - ref: C23
+      pin: 1
+    - ref: R5
+      pin: 1
+    - ref: X1
+      pin: 1
+- name: Net-(C24-Pad1)
+  code: 10
+  pin_count: 3
+  pins:
+    - ref: C24
+      pin: 1
+    - ref: U1
+      pin: T12
+    - ref: X1
+      pin: 3
+- name: Net-(C25-Pad1)
+  code: 11
+  pin_count: 3
+  pins:
+    - ref: C25
+      pin: 1
+    - ref: U1
+      pin: A5
+    - ref: X2
+      pin: 1
+- name: Net-(C26-Pad1)
+  code: 12
+  pin_count: 3
+  pins:
+    - ref: C26
+      pin: 1
+    - ref: U1
+      pin: A6
+    - ref: X2
+      pin: 3
+- name: Net-(C28-Pad1)
+  code: 14
+  pin_count: 3
+  pins:
+    - ref: C28
+      pin: 1
+    - ref: R14
+      pin: 1
+    - ref: X3
+      pin: 1
+- name: Net-(C30-Pad1)
+  code: 15
+  pin_count: 3
+  pins:
+    - ref: C30
+      pin: 1
+    - ref: U3
+      pin: 13
+    - ref: X3
+      pin: 3
+- name: Net-(C31-Pad1)
+  code: 16
+  pin_count: 3
+  pins:
+    - ref: C31
+      pin: 1
+    - ref: FB1
+      pin: 2
+    - ref: U4
+      pin: 1
+- name: Net-(C33-Pad1)
+  code: 17
+  pin_count: 2
+  pins:
+    - ref: C33
+      pin: 1
+    - ref: U11
+      pin: 1
+- name: Net-(C48-Pad1)
+  code: 19
+  pin_count: 2
+  pins:
+    - ref: C48
+      pin: 1
+    - ref: Z1
+      pin: 3
+- name: Net-(C51-Pad1)
+  code: 20
+  pin_count: 4
+  pins:
+    - ref: C51
+      pin: 1
+    - ref: FB2
+      pin: 1
+    - ref: L10
+      pin: 2
+    - ref: U5
+      pin: 5
+- name: Net-(C55-Pad2)
+  code: 125
+  pin_count: 5
+  pins:
+    - ref: C55
+      pin: 2
+    - ref: C56
+      pin: 1
+    - ref: R18
+      pin: 2
+    - ref: R19
+      pin: 1
+    - ref: U7
+      pin: J2
+- name: Net-(C59-Pad1)
+  code: 126
+  pin_count: 2
+  pins:
+    - ref: C59
+      pin: 1
+    - ref: R20
+      pin: 2
+- name: Net-(C87-Pad1)
+  code: 202
+  pin_count: 3
+  pins:
+    - ref: C87
+      pin: 1
+    - ref: U9
+      pin: 5
+    - ref: X4
+      pin: 3
+- name: Net-(C88-Pad1)
+  code: 203
+  pin_count: 3
+  pins:
+    - ref: C88
+      pin: 1
+    - ref: R25
+      pin: 2
+    - ref: X4
+      pin: 1
+- name: Net-(C92-Pad1)
+  code: 205
+  pin_count: 3
+  pins:
+    - ref: C92
+      pin: 1
+    - ref: R29
+      pin: 1
+    - ref: R30
+      pin: 1
+- name: Net-(C93-Pad1)
+  code: 206
+  pin_count: 2
+  pins:
+    - ref: C93
+      pin: 1
+    - ref: J2
+      pin: 9
+- name: Net-(C94-Pad1)
+  code: 207
+  pin_count: 2
+  pins:
+    - ref: C94
+      pin: 1
+    - ref: J2
+      pin: 10
+- name: Net-(C96-Pad1)
+  code: 234
+  pin_count: 3
+  pins:
+    - ref: C96
+      pin: 1
+    - ref: J3
+      pin: 4
+    - ref: R40
+      pin: 1
+- name: Net-(C97-Pad1)
+  code: 235
+  pin_count: 3
+  pins:
+    - ref: C97
+      pin: 1
+    - ref: J3
+      pin: 2
+    - ref: R41
+      pin: 1
+- name: Net-(D1-Pad1)
+  code: 21
+  pin_count: 2
+  pins:
+    - ref: D1
+      pin: 1
+    - ref: R6
+      pin: 1
+- name: Net-(D2-Pad1)
+  code: 236
+  pin_count: 2
+  pins:
+    - ref: D2
+      pin: 1
+    - ref: R34
+      pin: 2
+- name: Net-(D3-Pad1)
+  code: 237
+  pin_count: 2
+  pins:
+    - ref: D3
+      pin: 1
+    - ref: R35
+      pin: 2
+- name: Net-(J1-Pad4)
+  code: 22
+  pin_count: 1
+  pins:
+    - ref: J1
+      pin: 4
+- name: Net-(J2-Pad1)
+  code: 185
+  pin_count: 2
+  pins:
+    - ref: J2
+      pin: 1
+    - ref: T1
+      pin: 11
+- name: Net-(J2-Pad2)
+  code: 186
+  pin_count: 2
+  pins:
+    - ref: J2
+      pin: 2
+    - ref: T1
+      pin: 9
+- name: Net-(J2-Pad3)
+  code: 187
+  pin_count: 2
+  pins:
+    - ref: J2
+      pin: 3
+    - ref: T1
+      pin: 16
+- name: Net-(J2-Pad4)
+  code: 188
+  pin_count: 1
+  pins:
+    - ref: J2
+      pin: 4
+- name: Net-(J2-Pad5)
+  code: 189
+  pin_count: 1
+  pins:
+    - ref: J2
+      pin: 5
+- name: Net-(J2-Pad6)
+  code: 190
+  pin_count: 2
+  pins:
+    - ref: J2
+      pin: 6
+    - ref: T1
+      pin: 14
+- name: Net-(J2-Pad7)
+  code: 191
+  pin_count: 1
+  pins:
+    - ref: J2
+      pin: 7
+- name: Net-(J2-Pad8)
+  code: 192
+  pin_count: 1
+  pins:
+    - ref: J2
+      pin: 8
+- name: Net-(L1-Pad1)
+  code: 193
+  pin_count: 2
+  pins:
+    - ref: L1
+      pin: 1
+    - ref: R1
+      pin: 1
+- name: Net-(L10-Pad1)
+  code: 23
+  pin_count: 2
+  pins:
+    - ref: L10
+      pin: 1
+    - ref: U5
+      pin: 2
+- name: Net-(L2-Pad1)
+  code: 194
+  pin_count: 2
+  pins:
+    - ref: L2
+      pin: 1
+    - ref: R2
+      pin: 1
+- name: Net-(L3-Pad1)
+  code: 195
+  pin_count: 2
+  pins:
+    - ref: L3
+      pin: 1
+    - ref: R3
+      pin: 1
+- name: Net-(L4-Pad1)
+  code: 260
+  pin_count: 2
+  pins:
+    - ref: L4
+      pin: 1
+    - ref: L5
+      pin: 1
+- name: Net-(L4-Pad3)
+  code: 261
+  pin_count: 2
+  pins:
+    - ref: L4
+      pin: 3
+    - ref: U3
+      pin: 19
+- name: Net-(L4-Pad4)
+  code: 262
+  pin_count: 2
+  pins:
+    - ref: L4
+      pin: 4
+    - ref: U3
+      pin: 17
+- name: Net-(L5-Pad2)
+  code: 263
+  pin_count: 2
+  pins:
+    - ref: L5
+      pin: 2
+    - ref: Z1
+      pin: 2
+- name: Net-(L8-Pad1)
+  code: 200
+  pin_count: 2
+  pins:
+    - ref: L8
+      pin: 1
+    - ref: U6
+      pin: 4
+- name: Net-(L9-Pad1)
+  code: 201
+  pin_count: 2
+  pins:
+    - ref: L9
+      pin: 1
+    - ref: U6
+      pin: 7
+- name: Net-(Q1-Pad2)
+  code: 251
+  pin_count: 2
+  pins:
+    - ref: Q1
+      pin: 2
+    - ref: U1
+      pin: U6
+- name: Net-(Q1-Pad3)
+  code: 252
+  pin_count: 2
+  pins:
+    - ref: Q1
+      pin: 3
+    - ref: R6
+      pin: 2
+- name: Net-(Q1-Pad5)
+  code: 253
+  pin_count: 2
+  pins:
+    - ref: Q1
+      pin: 5
+    - ref: Q1
+      pin: 6
+- name: Net-(R14-Pad2)
+  code: 29
+  pin_count: 2
+  pins:
+    - ref: R14
+      pin: 2
+    - ref: U3
+      pin: 12
+- name: Net-(R16-Pad2)
+  code: 31
+  pin_count: 3
+  pins:
+    - ref: R16
+      pin: 2
+    - ref: U4
+      pin: 4
+    - ref: U5
+      pin: 12
+- name: Net-(R22-Pad2)
+  code: 183
+  pin_count: 2
+  pins:
+    - ref: R22
+      pin: 2
+    - ref: U8
+      pin: C3
+- name: Net-(R23-Pad1)
+  code: 208
+  pin_count: 2
+  pins:
+    - ref: R23
+      pin: 1
+    - ref: U9
+      pin: 32
+- name: Net-(R24-Pad2)
+  code: 209
+  pin_count: 4
+  pins:
+    - ref: R24
+      pin: 2
+    - ref: T1
+      pin: 1
+    - ref: U10
+      pin: 6
+    - ref: U9
+      pin: 31
+- name: Net-(R25-Pad1)
+  code: 210
+  pin_count: 2
+  pins:
+    - ref: R25
+      pin: 1
+    - ref: U9
+      pin: 4
+- name: Net-(R26-Pad2)
+  code: 211
+  pin_count: 4
+  pins:
+    - ref: R26
+      pin: 2
+    - ref: T1
+      pin: 3
+    - ref: U10
+      pin: 4
+    - ref: U9
+      pin: 30
+- name: Net-(R27-Pad2)
+  code: 212
+  pin_count: 4
+  pins:
+    - ref: R27
+      pin: 2
+    - ref: T1
+      pin: 6
+    - ref: U10
+      pin: 3
+    - ref: U9
+      pin: 29
+- name: Net-(R28-Pad2)
+  code: 213
+  pin_count: 4
+  pins:
+    - ref: R28
+      pin: 2
+    - ref: T1
+      pin: 8
+    - ref: U10
+      pin: 1
+    - ref: U9
+      pin: 28
+- name: Net-(R29-Pad2)
+  code: 214
+  pin_count: 2
+  pins:
+    - ref: R29
+      pin: 2
+    - ref: T1
+      pin: 15
+- name: Net-(R30-Pad2)
+  code: 215
+  pin_count: 2
+  pins:
+    - ref: R30
+      pin: 2
+    - ref: T1
+      pin: 10
+- name: Net-(R34-Pad1)
+  code: 244
+  pin_count: 2
+  pins:
+    - ref: R34
+      pin: 1
+    - ref: U9
+      pin: 3
+- name: Net-(R35-Pad1)
+  code: 245
+  pin_count: 3
+  pins:
+    - ref: R35
+      pin: 1
+    - ref: R36
+      pin: 1
+    - ref: U9
+      pin: 2
+- name: Net-(R42-Pad2)
+  code: 254
+  pin_count: 2
+  pins:
+    - ref: R42
+      pin: 2
+    - ref: U1
+      pin: T15
+- name: Net-(R43-Pad2)
+  code: 255
+  pin_count: 2
+  pins:
+    - ref: R43
+      pin: 2
+    - ref: U1
+      pin: T14
+- name: Net-(R5-Pad2)
+  code: 112
+  pin_count: 2
+  pins:
+    - ref: R5
+      pin: 2
+    - ref: U1
+      pin: U12
+- name: Net-(T1-Pad12)
+  code: 198
+  pin_count: 1
+  pins:
+    - ref: T1
+      pin: 12
+- name: Net-(T1-Pad13)
+  code: 199
+  pin_count: 1
+  pins:
+    - ref: T1
+      pin: 13
+- name: Net-(T1-Pad4)
+  code: 196
+  pin_count: 1
+  pins:
+    - ref: T1
+      pin: 4
+- name: Net-(T1-Pad5)
+  code: 197
+  pin_count: 1
+  pins:
+    - ref: T1
+      pin: 5
+- name: Net-(U1-PadA7)
+  code: 33
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: A7
+- name: Net-(U1-PadA8)
+  code: 34
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: A8
+- name: Net-(U1-PadB9)
+  code: 35
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: B9
+- name: Net-(U1-PadC7)
+  code: 36
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: C7
+- name: Net-(U1-PadC9)
+  code: 37
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: C9
+- name: Net-(U1-PadD16)
+  code: 40
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: D16
+- name: Net-(U1-PadD17)
+  code: 41
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: D17
+- name: Net-(U1-PadD8)
+  code: 38
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: D8
+- name: Net-(U1-PadD9)
+  code: 39
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: D9
+- name: Net-(U1-PadE1)
+  code: 42
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: E1
+- name: Net-(U1-PadE14)
+  code: 44
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: E14
+- name: Net-(U1-PadE2)
+  code: 43
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: E2
+- name: Net-(U1-PadF1)
+  code: 45
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: F1
+- name: Net-(U1-PadF2)
+  code: 46
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: F2
+- name: Net-(U1-PadF3)
+  code: 47
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: F3
+- name: Net-(U1-PadF4)
+  code: 48
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: F4
+- name: Net-(U1-PadG1)
+  code: 49
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: G1
+- name: Net-(U1-PadG2)
+  code: 50
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: G2
+- name: Net-(U1-PadG3)
+  code: 51
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: G3
+- name: Net-(U1-PadG4)
+  code: 52
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: G4
+- name: Net-(U1-PadH1)
+  code: 53
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: H1
+- name: Net-(U1-PadH16)
+  code: 56
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: H16
+- name: Net-(U1-PadH2)
+  code: 54
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: H2
+- name: Net-(U1-PadH3)
+  code: 55
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: H3
+- name: Net-(U1-PadJ1)
+  code: 57
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: J1
+- name: Net-(U1-PadJ15)
+  code: 61
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: J15
+- name: Net-(U1-PadJ16)
+  code: 62
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: J16
+- name: Net-(U1-PadJ17)
+  code: 63
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: J17
+- name: Net-(U1-PadJ2)
+  code: 58
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: J2
+- name: Net-(U1-PadJ3)
+  code: 59
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: J3
+- name: Net-(U1-PadJ4)
+  code: 60
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: J4
+- name: Net-(U1-PadK1)
+  code: 64
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: K1
+- name: Net-(U1-PadK16)
+  code: 67
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: K16
+- name: Net-(U1-PadK17)
+  code: 68
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: K17
+- name: Net-(U1-PadK2)
+  code: 65
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: K2
+- name: Net-(U1-PadK3)
+  code: 66
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: K3
+- name: Net-(U1-PadL1)
+  code: 69
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: L1
+- name: Net-(U1-PadL14)
+  code: 73
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: L14
+- name: Net-(U1-PadL15)
+  code: 74
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: L15
+- name: Net-(U1-PadL16)
+  code: 75
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: L16
+- name: Net-(U1-PadL17)
+  code: 76
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: L17
+- name: Net-(U1-PadL2)
+  code: 70
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: L2
+- name: Net-(U1-PadL3)
+  code: 71
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: L3
+- name: Net-(U1-PadL4)
+  code: 72
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: L4
+- name: Net-(U1-PadM16)
+  code: 79
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: M16
+- name: Net-(U1-PadM17)
+  code: 80
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: M17
+- name: Net-(U1-PadM2)
+  code: 77
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: M2
+- name: Net-(U1-PadM3)
+  code: 78
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: M3
+- name: Net-(U1-PadN2)
+  code: 81
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: N2
+- name: Net-(U1-PadN3)
+  code: 82
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: N3
+- name: Net-(U1-PadN4)
+  code: 83
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: N4
+- name: Net-(U1-PadP1)
+  code: 84
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: P1
+- name: Net-(U1-PadP11)
+  code: 89
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: P11
+- name: Net-(U1-PadP16)
+  code: 90
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: P16
+- name: Net-(U1-PadP17)
+  code: 91
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: P17
+- name: Net-(U1-PadP3)
+  code: 85
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: P3
+- name: Net-(U1-PadP4)
+  code: 86
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: P4
+- name: Net-(U1-PadP5)
+  code: 87
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: P5
+- name: Net-(U1-PadP8)
+  code: 88
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: P8
+- name: Net-(U1-PadR1)
+  code: 92
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: R1
+- name: Net-(U1-PadR11)
+  code: 97
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: R11
+- name: Net-(U1-PadR16)
+  code: 98
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: R16
+- name: Net-(U1-PadR17)
+  code: 99
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: R17
+- name: Net-(U1-PadR3)
+  code: 93
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: R3
+- name: Net-(U1-PadR4)
+  code: 94
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: R4
+- name: Net-(U1-PadR5)
+  code: 95
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: R5
+- name: Net-(U1-PadR7)
+  code: 96
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: R7
+- name: Net-(U1-PadT2)
+  code: 100
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: T2
+- name: Net-(U1-PadT3)
+  code: 101
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: T3
+- name: Net-(U1-PadT4)
+  code: 102
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: T4
+- name: Net-(U1-PadT5)
+  code: 103
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: T5
+- name: Net-(U1-PadT7)
+  code: 104
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: T7
+- name: Net-(U1-PadT8)
+  code: 105
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: T8
+- name: Net-(U1-PadU1)
+  code: 106
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: U1
+- name: Net-(U1-PadU2)
+  code: 107
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: U2
+- name: Net-(U1-PadU4)
+  code: 108
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: U4
+- name: Net-(U1-PadU5)
+  code: 109
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: U5
+- name: Net-(U1-PadU8)
+  code: 110
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: U8
+- name: Net-(U1-PadU9)
+  code: 111
+  pin_count: 1
+  pins:
+    - ref: U1
+      pin: U9
+- name: Net-(U2-Pad4)
+  code: 113
+  pin_count: 1
+  pins:
+    - ref: U2
+      pin: 4
+- name: Net-(U2-Pad6)
+  code: 114
+  pin_count: 1
+  pins:
+    - ref: U2
+      pin: 6
+- name: Net-(U3-Pad10)
+  code: 115
+  pin_count: 1
+  pins:
+    - ref: U3
+      pin: 10
+- name: Net-(U3-Pad15)
+  code: 116
+  pin_count: 1
+  pins:
+    - ref: U3
+      pin: 15
+- name: Net-(U3-Pad18)
+  code: 117
+  pin_count: 1
+  pins:
+    - ref: U3
+      pin: 18
+- name: Net-(U3-Pad21)
+  code: 118
+  pin_count: 1
+  pins:
+    - ref: U3
+      pin: 21
+- name: Net-(U5-Pad6)
+  code: 120
+  pin_count: 1
+  pins:
+    - ref: U5
+      pin: 6
+- name: Net-(U7-PadA8)
+  code: 122
+  pin_count: 1
+  pins:
+    - ref: U7
+      pin: A8
+- name: Net-(U7-PadE8)
+  code: 123
+  pin_count: 1
+  pins:
+    - ref: U7
+      pin: E8
+- name: P1V0
+  code: 1
+  pin_count: 15
+  pins:
+    - ref: C1
+      pin: 1
+    - ref: C4
+      pin: 1
+    - ref: C50
+      pin: 1
+    - ref: C53
+      pin: 1
+    - ref: C6
+      pin: 1
+    - ref: C78
+      pin: 1
+    - ref: C79
+      pin: 1
+    - ref: C80
+      pin: 1
+    - ref: L8
+      pin: 2
+    - ref: R2
+      pin: 2
+    - ref: U1
+      pin: H14
+    - ref: U1
+      pin: K8
+    - ref: U1
+      pin: K9
+    - ref: U1
+      pin: T17
+    - ref: U6
+      pin: 1
+- name: P1V8
+  code: 4
+  pin_count: 44
+  pins:
+    - ref: C13
+      pin: 1
+    - ref: C19
+      pin: 1
+    - ref: C42
+      pin: 1
+    - ref: C49
+      pin: 1
+    - ref: C52
+      pin: 1
+    - ref: C57
+      pin: 1
+    - ref: C58
+      pin: 1
+    - ref: C60
+      pin: 1
+    - ref: C61
+      pin: 1
+    - ref: C62
+      pin: 1
+    - ref: C63
+      pin: 1
+    - ref: C64
+      pin: 1
+    - ref: C65
+      pin: 1
+    - ref: C66
+      pin: 1
+    - ref: C67
+      pin: 1
+    - ref: C68
+      pin: 1
+    - ref: C73
+      pin: 1
+    - ref: C74
+      pin: 1
+    - ref: C75
+      pin: 1
+    - ref: C76
+      pin: 1
+    - ref: C77
+      pin: 1
+    - ref: C8
+      pin: 1
+    - ref: L12
+      pin: 1
+    - ref: L9
+      pin: 2
+    - ref: U1
+      pin: D10
+    - ref: U1
+      pin: D13
+    - ref: U1
+      pin: F14
+    - ref: U6
+      pin: 10
+    - ref: U7
+      pin: A1
+    - ref: U7
+      pin: A9
+    - ref: U7
+      pin: C1
+    - ref: U7
+      pin: C3
+    - ref: U7
+      pin: C7
+    - ref: U7
+      pin: C9
+    - ref: U7
+      pin: E1
+    - ref: U7
+      pin: E9
+    - ref: U7
+      pin: G1
+    - ref: U7
+      pin: G3
+    - ref: U7
+      pin: G7
+    - ref: U7
+      pin: G9
+    - ref: U7
+      pin: J1
+    - ref: U7
+      pin: J9
+    - ref: U7
+      pin: M9
+    - ref: U7
+      pin: R1
+- name: P3V3
+  code: 3
+  pin_count: 77
+  pins:
+    - ref: C14
+      pin: 1
+    - ref: C18
+      pin: 1
+    - ref: C2
+      pin: 1
+    - ref: C20
+      pin: 1
+    - ref: C21
+      pin: 1
+    - ref: C29
+      pin: 1
+    - ref: C3
+      pin: 1
+    - ref: C32
+      pin: 1
+    - ref: C35
+      pin: 1
+    - ref: C36
+      pin: 1
+    - ref: C38
+      pin: 1
+    - ref: C40
+      pin: 1
+    - ref: C44
+      pin: 1
+    - ref: C5
+      pin: 1
+    - ref: C54
+      pin: 1
+    - ref: C69
+      pin: 1
+    - ref: C7
+      pin: 1
+    - ref: C70
+      pin: 1
+    - ref: C71
+      pin: 1
+    - ref: C72
+      pin: 1
+    - ref: C81
+      pin: 1
+    - ref: C82
+      pin: 1
+    - ref: C83
+      pin: 1
+    - ref: C84
+      pin: 1
+    - ref: C85
+      pin: 1
+    - ref: C86
+      pin: 1
+    - ref: C89
+      pin: 1
+    - ref: C9
+      pin: 1
+    - ref: C95
+      pin: 1
+    - ref: C98
+      pin: 1
+    - ref: FB2
+      pin: 2
+    - ref: J3
+      pin: 19
+    - ref: J3
+      pin: 20
+    - ref: Q1
+      pin: 4
+    - ref: R1
+      pin: 2
+    - ref: R21
+      pin: 1
+    - ref: R22
+      pin: 1
+    - ref: R24
+      pin: 1
+    - ref: R26
+      pin: 1
+    - ref: R27
+      pin: 1
+    - ref: R28
+      pin: 1
+    - ref: R3
+      pin: 2
+    - ref: R31
+      pin: 2
+    - ref: R32
+      pin: 2
+    - ref: R37
+      pin: 1
+    - ref: R38
+      pin: 1
+    - ref: R39
+      pin: 1
+    - ref: R44
+      pin: 1
+    - ref: T1
+      pin: 2
+    - ref: T1
+      pin: 7
+    - ref: U1
+      pin: A4
+    - ref: U1
+      pin: B5
+    - ref: U1
+      pin: C6
+    - ref: U1
+      pin: H4
+    - ref: U1
+      pin: J14
+    - ref: U1
+      pin: K14
+    - ref: U1
+      pin: P7
+    - ref: U1
+      pin: P9
+    - ref: U10
+      pin: 5
+    - ref: U11
+      pin: 3
+    - ref: U11
+      pin: 4
+    - ref: U3
+      pin: 11
+    - ref: U3
+      pin: 14
+    - ref: U3
+      pin: 16
+    - ref: U3
+      pin: 20
+    - ref: U3
+      pin: 22
+    - ref: U3
+      pin: 24
+    - ref: U3
+      pin: 8
+    - ref: U6
+      pin: 2
+    - ref: U6
+      pin: 6
+    - ref: U6
+      pin: 8
+    - ref: U6
+      pin: 9
+    - ref: U8
+      pin: H8
+    - ref: U8
+      pin: J6
+    - ref: U9
+      pin: 1
+    - ref: U9
+      pin: 12
+    - ref: U9
+      pin: 27
+- name: P5V0
+  code: 18
+  pin_count: 9
+  pins:
+    - ref: C37
+      pin: 1
+    - ref: C41
+      pin: 1
+    - ref: R16
+      pin: 1
+    - ref: U4
+      pin: 5
+    - ref: U5
+      pin: 1
+    - ref: U5
+      pin: 10
+    - ref: U5
+      pin: 11
+    - ref: U5
+      pin: 8
+    - ref: U5
+      pin: 9
