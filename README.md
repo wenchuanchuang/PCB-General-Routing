@@ -2,7 +2,6 @@
 
 This project demonstrates the workflow from **path generation** to **selecting an optimal solution** from multiple candidate paths.
 
-
 ## How to Run
 
 Based on CMake configuration, install dependencies and set up Gurobi.
